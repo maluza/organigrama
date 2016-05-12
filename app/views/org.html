@@ -1,0 +1,37 @@
+<div class="tree">
+  <ul>
+    <li>
+      <!-- Direccion-->
+      <a ng-click="select(ivea,0)">
+        <h3>{{ivea.area}}</h3>
+        <span class="title">{{ivea.titular.nombre}}</span>
+        <br>
+        <span"text-muted">{{ivea.titular.cargo}}</span>
+      </a>
+      <!-- Subireccion-->
+      <ul>
+        <li ng-repeat="sub in ivea.subdirecciones">
+          <a ng-click="select(sub,1)">
+            <b>{{sub.area}}</b>
+            <br>
+            {{sub.titular.nombre}}
+            <br>
+            <span class="text-muted">{{sub.titular.cargo}}</span>
+          </a>
+          <!-- departamentos -->
+          <ul class="down" ng-if="sub.departamentos">
+            <li ng-repeat="dep in sub.departamentos">
+              <a ng-click="select(dep, 1, sub.id)">
+                <b>{{dep.area}}</b>
+                <br>
+                {{dep.titular.nombre}}
+                <br>
+                <span class="text-muted">{{dep.titular.cargo}}</span>
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>

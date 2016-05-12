@@ -1,0 +1,64 @@
+<div class="modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" ng-click="$hide()">&times;</button>
+        <h3 class="modal-title">Información detallada</h3>
+      </div>
+      <div class="modal-body">
+
+        <div class="row">
+          <div class="col-md-4">
+            <img ng-src="fotos/{{mostrar.titular.fotografia}}"  width="170px" ng-if="mostrar.titular.fotografia"/>
+            <img src="fotos/perfil.png"  width="170px" ng-if="!mostrar.titular.fotografia"/>
+          </div>
+          <div class="col-md-8">
+            <h3>{{mostrar.titular.nombre}}</h3>
+				{{mostrar.titular.cargo}}
+            <br>
+            <h4>Área</h4>
+            <p>
+              {{mostrar.area}}
+            </p>
+            <div ng-if="mostrar.titular.contrato">
+              <h4>Tipo de Contrato</h4>
+              <p>
+                {{mostrar.titular.contrato}}
+              </p>
+            </div>
+            <div ng-if="mostrar.titular.escolaridad">
+              <h4>Escolaridad</h4>
+              <p>
+                {{mostrar.titular.escolaridad}}
+              </p>
+            </div>
+            <div ng-if="mostrar.titular.antiguedad">
+              <h4>Antiguedad</h4>
+              <p>
+                {{mostrar.titular.antiguedad}}
+              </p>
+            </div>
+			<div ng-if="mostrar.titular.jefe">
+              <h4>Jefe Inmediato</h4>
+              <p>
+                {{mostrar.titular.jefe}}
+              </p>
+            </div>
+            <div ng-if="mostrar.titular.actividades">
+              <h4>Actividades</h4>
+              <p>
+                {{mostrar.titular.actividades}}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="pull-left" ng-if="mostrar.nivel">
+          <a class="btn btn-primary" href="#/subdireccion/{{mostrar.id}}" ng-click="$hide()">Personal <span ng-if="mostrar.nivel==1">de la subdirección</span> <span ng-if="mostrar.nivel==2">del departamento</span></a>
+        </div>
+        <button type="button" class="btn btn-primary" ng-click="$hide()">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

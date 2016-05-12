@@ -1,0 +1,34 @@
+<div class="tree">
+  <ul>
+    <li>
+      <!-- Direccion-->
+      <a ng-click="select(subdireccion,0)">
+        <h4>{{subdireccion.area}}</h4>
+        <span class="title">{{subdireccion.titular.nombre}}</span>
+        <br>
+        <span"text-muted">{{subdireccion.titular.cargo}}</span>
+      </a>
+      <!-- Subireccion-->
+      <ul>
+        <li ng-repeat="dep in subdireccion.departamentos">
+          <a ng-click="select(dep,0)">
+            <b>{{dep.area}}</b>
+            <br>
+            {{dep.titular.nombre}}
+            <br>
+            <span class="text-muted">{{dep.titular.cargo}}</span>
+          </a>
+          <ul  ng-if="dep.personal" class="down">
+            <li ng-repeat="per in dep.personal">
+              <a ng-click="select(per,0, dep.area)">
+                {{per.nombre}}
+                <br>
+                <span class="text-muted">{{per.cargo}}</span>
+              </a>
+            </dd>
+          </li>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,215 @@
+{
+	"area":"DIRECCIÓN GENERAL",
+	"id":"DG",
+	"titular":{
+		"nombre":"LOTH MELCHISEDEC SEGURA JUAREZ",
+		"cargo":"DIRECTOR GENERAL",
+		"activodades":"esta son sus actividades",
+		"fotografia":"001.jpeg"
+	},
+	"departamentos":[
+		{
+			"area":"DEPARTAMENTO DE CONTROL DOCUMENTAL",
+			"id":"DCD",
+			"titular":{
+				"nombre":"MARIA AIDE",
+				"cargo":"JEFA DE DEPARTAMENTO"
+			}
+		},
+		{
+			"area":"DEPARTAMENTO JURIDICO",
+			"id":"DJ",
+			"titular":{
+				"nombre":"TANIA",
+				"cargo":"JEFA DE DEPARTAMENTO"
+			}
+		},
+		{
+			"area":"DEPARTAMENTO DE DISEÑO Y DIFUSIÓN EDUCATIVA",
+			"id":"DDDE",
+			"titular":{
+				"nombre":"---",
+				"cargo":"JEFA DE DEPARTAMENTO"
+			}
+		},
+		{
+			"area":"UNIDAD DE GENERO",
+			"id":"UG",
+			"titular":{
+				"nombre":"ALBA",
+				"cargo":"JEFA DE UNIDAD"
+			}
+		}
+	],
+
+	"subdirecciones":[
+		{
+			"area":"SUBDIRECCIÓN DE SERVICIOS EDUCATIVOS",
+			"id":"SSE",
+			"titular":{
+				"nombre":"JUANA MIRANDA",
+				"cargo":"SUBDIRECTORA"
+			},
+
+			"departamentos":[
+				{
+					"area":"DEPARTAMENTO DE EDUCACIÓN INDÍGENA"
+				},
+				{
+					"area":"DEPARTAMENTO DE FORMACIÓN Y DESARROLLO EDUCATIVO"
+				},
+				{
+					"area":"DEPARTAMENTO DE EDUCACIÓN HISPANOHABLANTE"
+				}
+			]
+		},
+		{
+			"area":"SUBDIRECCIÓN DE CONCERTACIÓN Y SEGUIMIENTO OPERATIVO",
+			"id":"SCSO",
+			"titular":{
+				"nombre":"NEMECIO",
+				"cargo":"SUBDIRECTOR"
+			},
+			"departamentos":[
+				{
+					"area":"DEPARTAMENTO DE SEGUIMIENTO Y VINCULACIÓN"
+				},
+				{
+					"area":"DEPARTAMENTO DE PLAZAS COMUNITARIAS"
+				}
+
+			]
+		},
+		{
+			"area":"SUBDIRECCIÓN DE PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN",
+			"id":"SPPP",
+			"titular":{
+				"nombre":"JUAN CARLOS OLVERA",
+				"cargo":"SUBDIRECTOR"
+			},
+			"departamentos":[
+				{
+					"area":"DEPARTAMENTO PRESUPUESTACIÓN"
+				},
+				{
+					"area":"DEPARTAMENTO PROGRAMACIÓN"
+				},
+				{
+					"area":"DEPARTAMENTO PLANEACIÓN Y EVALUACIÓN"
+				}
+
+			]
+		},
+		{
+			"area":"SUBDIRECCIÓN DE ACREDITACIÓN Y SISTEMAS DE CONTROL EDUCATIVO",
+			"id":"SASCE",
+			"titular":{
+				"nombre":"DANIEL DEMENEGHI GAMBOA",
+				"cargo":"SUBDIRECTOR"
+			},
+			"departamentos":[
+				{
+					"area":"DEPARTAMENTO DE ACREDITACIÓN"
+				},
+				{
+					"area":"DEPARTAMENTO DE CERTIFICACIÓN"
+				},
+				{
+					"area":"DEPARTAMENTO DE ANALISÍS DEL APRENDIZAJE"
+				},
+				{
+					"area":"DEPARTAMENTO DEL SISTEMA AUTOMATIZADO DE SEGUIMIENTO Y ACREDITACIÓN"
+				}
+
+			]
+		},
+		{
+			"area":"SUBDIRECCIÓN ADMINISTRATIVA",
+			"id":"SA",
+			"titular":{
+				"nombre":"HECTOR DAVID CONTRERAS SANTOS",
+				"cargo":"SUBDIRECTOR"
+			},
+			"departamentos":[
+				{
+					"area":"DEPARTAMENTO DE RECURSOS HUMANOS"
+				},
+				{
+					"area":"DEPARTAMENTO DE RECURSOS FINANCIEROS"
+				},
+				{
+					"area":"DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENENERALES"
+				},
+				{
+					"area":"DEPARTAMENTO DE TECNOLOGÍAS DE LA INFORMACIÓN",
+					"titular":{
+						"nombre":"HERNAN TENORIO GOMEZ",
+						"cargo":"Jefe de Departamento",
+						"actividades":"Administración de líneas telefonicas, Administración de Licencias",
+						"contrato":"Plantilla",
+						"antiguedad":"10 años",
+						"escolaridad":"Licenciatura",
+						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
+						"fotografia":"hernan.jpg"
+					},
+					"personal":[
+						{"nombre":"Cesar Encarnación Mendoza",
+							"cargo":"Jefe de oficina",
+							"actividades":"Red, Firewall, Active directory, Timbrado, Desarrollo de software",
+							"contrato":"Honorarios",
+							"antiguedad":"4 años",
+							"escolaridad":"Licenciatura",
+							"jefe":"HERNAN TENORIO GOMEZ",
+							"fotografia":"cesar.jpg"
+						},
+						{"nombre":"Christian Gustavo Franco Rodriguez",
+							"cargo":"Jefe de oficina",
+							"actividades":"Camaras de video vigilancia y reloj checador",
+							"contrato":"Honorarios",
+							"antiguedad":"1 año",
+							"escolaridad":"Licenciatura",
+							"jefe":"HERNAN TENORIO GOMEZ",
+							"fotografia":"christian.jpg"
+						},
+						{"nombre":"Reyna Alejandra Ortega Hernandez",
+							"cargo":"Especialista en Proyectos Técnicos",
+							"actividades":"Mantenimiento de Equipos de computo y Soporte Técnico",
+							"contrato":"Base",
+							"antiguedad":"4 años",
+							"escolaridad":"Licenciatura",
+							"jefe":"HERNAN TENORIO GOMEZ",
+							"fotografia":"reyna.jpg"									
+						},
+						{"nombre":"Jeronimo Juarez Aburto",
+							"cargo":"Jefe de oficina",
+							"actividades":"Mantenimiento de Equipos de computo y Soporte Técnico",
+							"contrato":"Base",
+							"antiguedad":"24 años 3 meses",
+							"escolaridad":"Licenciatura",
+							"jefe":"HERNAN TENORIO GOMEZ",
+							"fotografia":"jero.jpg"
+						},
+						{"nombre":"Marilu Rivas Garcia",
+							"cargo":"Auxiliar Administrativo",
+							"actividades":"Administración de Correos, Capacitación, Atención a eventos, Creación de Layouts",
+							"contrato":"Honorarios",
+							"antiguedad":"4 años",
+							"escolaridad":"Licenciatura",
+							"jefe":"HERNAN TENORIO GOMEZ",
+							"fotografia":"malu.jpg"									
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"area":"SUBDIRECCIÓN ATENCIÓN TERRITORIAL",
+			"id":"SAT",
+			"titular":{
+				"nombre":"ISMAEL VEGA DELGADO",
+				"cargo":"SUBDIRECTOR"
+			}
+		}
+	]
+}

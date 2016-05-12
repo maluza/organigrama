@@ -1,0 +1,65 @@
+
+<div class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand">Instituto Veracruzano de Educación para los Adultos</span>
+        </div>
+        <div class="navbar-collapse collapse">
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+
+<div class="container-fluid">
+	<!-- primer nodo -->
+	<div class="row">
+		<div class=" items col-sm-2 col-sm-offset-5">
+			<h3>{{ivea.area}}</h3>
+			<p>
+				<span class="title"><b>{{ivea.titular.nombre}}</b></span>
+				<br>
+				<span"text-muted"><b>{{ivea.titular.cargo}}</b></span>
+			</p>
+		</div>
+	</div>
+
+	<!-- Unidades y deptos de DG -->
+	<div class="row">
+		<div class="items nivel col-sm-2 col-sm-offset-3" ng-repeat="dep in ivea.departamentos">
+			<b>{{dep.area}}</b>
+			<br>
+			{{dep.titular.nombre}}
+			<br>
+			<span>{{dep.titular.cargo}}</span>
+		</div>
+	</div>
+
+	<div class="row nivel">
+		<div class="col-sm-2" ng-repeat="sub in ivea.subdirecciones">
+			<div class="row nivel">
+				<div class="col-sm-10 col-sm-offset-1 items">	
+					<p class="title">{{sub.area}}</p>
+					<p>
+						{{sub.titular.nombre}}
+						<br>
+						<span class="text-muted">{{sub.titular.cargo}}</span>
+					</p>
+				</div>
+			</div>
+			<div class="row nivel" ng-repeat="dep in sub.departamentos">
+				<div class="items col-sm-8 col-sm-offset-2">
+					<b>{{dep.area}}</b>
+					<br>
+					{{dep.titular.nombre}}
+					<br>
+					<span>{{dep.titular.cargo}}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
