@@ -32,16 +32,16 @@
 }
 
 	.tree {
-	    width: auto;
+	  width: auto;
 	    margin-left: auto;
 	    margin-right: auto;
 	}
 	.tree ul{
-			padding: 10px;
+			padding: 5px;
 	    padding-top: 20px;
 	    position: relative;
-	    transition: all 0.5s;
-	    -webkit-transition: all 0.5s;
+	     transition: all 0.5s;
+      -webkit-transition: all 0.5s;
 	    -moz-transition: all 0.5s;
 	}
 
@@ -54,6 +54,7 @@
 	    transition: all 0.5s;
 	    -webkit-transition: all 0.5s;
 	    -moz-transition: all 0.5s;
+
 	}
 	.down li{
 		float: none;
@@ -85,6 +86,7 @@
 	/*Remove space from the top of single children*/
 	.tree li:only-child {
 	    padding-top: 0;
+
 	}
 	/*Remove left connector from first child and right connector from last child*/
 	.tree li:first-child::before, .tree li:last-child::after {
@@ -159,23 +161,45 @@
 	a.just-line + ul:before {
 	    height: 74px;
 	}
-	
+
 .modal-header {
-    padding:9px 15px;
-    border-bottom:1px solid #eee;
-    background-color: #87CEEB;
-    -webkit-border-top-left-radius: 5px;
-    -webkit-border-top-right-radius: 5px;
-    -moz-border-radius-topleft: 5px;
-    -moz-border-radius-topright: 5px;
-     border-top-left-radius: 5px;
-     border-top-right-radius: 5px;
+  color:#fff;
+  padding:9px 15px;
+  border-bottom:1px solid #eee;
+  background-color: #428bca;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
  }
-.modal-footer {
-  border-top: 1px solid #eee;
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
-  box-shadow: none;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+ /*.modal-open{
+     -webkit-transform: scale( 0.9 );
+     -moz-transform: scale( 0.9 );
+     -ms-transform: scale( 0.9 );
+     -o-transform: scale( 0.9 );
+     transform: scale( 0.9 );
+     overflow:hidden;
+     -webkit-transform-origin: 50% 50%;
+     -moz-transform-origin: 50% 50%;
+     -ms-transform-origin: 50% 50%;
+     -o-transform-origin: 50% 50%;
+     transform-origin: 50% 50%;
+     -webkit-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
+     -moz-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
+     -ms-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
+     -o-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
+     transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
+ }*/
+ .modal-dialog{
+     width: 50% !important;
+ }
+ .TextoInicio {
+ TEXT-ALIGN:justify;
+ }
+
+.ajustar{
+  padding: 0;
+
 }
