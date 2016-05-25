@@ -20,7 +20,7 @@
 				"antiguedad":"14 años",
 				"escolaridad":"Licenciatura en Educación",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":""
+				"fotografia":"Hispano/Juanita.JPG"
 			},
 
 			"departamentos":[
@@ -29,12 +29,12 @@
 					"titular":{
 						"nombre":"MARGARITA DE LA CRUZ HERNÁNDEZ",
 						"cargo":"Jefe de Departamento",
-						"actividades":"",
-						"contrato":"",
-						"antiguedad":"",
-						"escolaridad":"",
+						"actividades":"Academicas y Operativas",
+						"contrato":"Honorarios",
+						"antiguedad":"13 años",
+						"escolaridad":"Licenciatura",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
-						"fotografia":"Indigenas/.JPG"
+						"fotografia":"Indigenas/Mago.JPG"
 					},
 					"personal":[
 						{
@@ -45,7 +45,7 @@
 							"antiguedad":"22 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":"Indigenas/.JPG"
+							"fotografia":"Indigenas/Luz.JPG"
 						},
 						{
 							"nombre":"Juan Saulo Marceliano García",
@@ -65,7 +65,7 @@
 							"antiguedad":"6 meses",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":"Indigenas/.JPG"
+							"fotografia":""
 						}
 						]
 				},
@@ -154,7 +154,7 @@
 						"antiguedad":"",
 						"escolaridad":"",
 						"jefe":"",
-						"fotografia":"Hispano/.JPG"
+						"fotografia":""
 					},
 					"personal":[
 						{
@@ -165,7 +165,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"Bachillerato",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/Helen.JPG"
+							"fotografia":""
 						},
 						{
 							"nombre":"Rafael Vélez Guzmán",
@@ -195,7 +195,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"12 vo. semestre de Licenciatura",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/.JPG"
+							"fotografia":"Hispano/Jonathan.JPG"
 						}
 						]
 				},
@@ -530,7 +530,7 @@
 							"antiguedad":"24 años",
 							"escolaridad":"Maestría en Sistemas de Información",
 							"jefe":"JORGE ARTURO BRUNO CERECEDO",
-							"fotografia":"Programacion/"
+							"fotografia":"Programacion/German.JPG"
 						},
 						{
 							"nombre":"Patricia Teresa Martínez Arcos",
@@ -570,7 +570,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"JORGE ARTURO BRUNO CERECEDO",
-							"fotografia":""
+							"fotografia":"Programacion/lulu.JPG"
 						}
 					]
 				},
@@ -637,10 +637,10 @@
 			"titular":{
 				"nombre":"DANIEL DEMENEGHI GAMBOA",
 				"cargo":"SUBDIRECTOR",
-				"actividades":"",
-				"contrato":"",
-				"antiguedad":"",
-				"escolaridad":"",
+				"actividades":"Coordinar las acciones en los distintos departamentos de la Subdirección, para el cumplimiento de los procesos específicos que se desarrollan.",
+				"contrato":"Plantilla",
+				"antiguedad":"2 meses",
+				"escolaridad":"Licenciatura",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 				"fotografia":""
 			},
@@ -655,7 +655,7 @@
 						"antiguedad":"16 años",
 						"escolaridad":"Maestria",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-						"fotografia":""
+						"fotografia":"SASA/JoseLuis.JPG"
 					},
 					"personal":[
 						{
@@ -731,7 +731,7 @@
 							"antiguedad":"24 años",
 							"escolaridad":"Licenciatura en Contaduria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Difusion/Chuy.JPG"
+							"fotografia":"Certificacion/Chuy.JPG"
 						},
 						{
 							"nombre":"Rosa María Villa Melchor",
@@ -864,12 +864,12 @@
 							"fotografia":"Certificacion/Elena.JPG"
 						},
 						{
-							"nombre":"Jenny",
-							"cargo":"",
-							"actividades":"",
+							"nombre":"Jenny Dionisia Cuevas Sangabriel",
+							"cargo":"Especialista en Proyectos Técnicos",
+							"actividades":"Emisión de certificados, certificaciones y duplicados de nivel primaria y secundaria",
 							"contrato":"Base",
-							"antiguedad":"4 años",
-							"escolaridad":"Licenciatura Pedagogia",
+							"antiguedad":"6 años",
+							"escolaridad":"Licenciatura Contaduria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
 							"fotografia":"Certificacion/Jenny.JPG"
 						}
@@ -1083,7 +1083,7 @@
 						"antiguedad":"30 años 15 días",
 						"escolaridad":"Bachillerato Tecnico",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/sara.JPG"
+						"fotografia":"Humanos/Sara.JPG"
 					}
 				]
 				},
