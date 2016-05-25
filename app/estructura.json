@@ -34,7 +34,7 @@
 						"antiguedad":"",
 						"escolaridad":"",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
-						"fotografia":"Indigenas/.jpg"
+						"fotografia":"Indigenas/.JPG"
 					},
 					"personal":[
 						{
@@ -45,7 +45,7 @@
 							"antiguedad":"22 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":"Indigenas/.jpg"
+							"fotografia":"Indigenas/.JPG"
 						},
 						{
 							"nombre":"Juan Saulo Marceliano García",
@@ -55,7 +55,7 @@
 							"antiguedad":"8 años 8 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":"Indigenas/Saulo.jpg"
+							"fotografia":"Indigenas/Saulo.JPG"
 						},
 						{
 							"nombre":"Ana Cristina Fernández Cardeña",
@@ -65,7 +65,7 @@
 							"antiguedad":"6 meses",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":"Indigenas/.jpg"
+							"fotografia":"Indigenas/.JPG"
 						}
 						]
 				},
@@ -79,7 +79,7 @@
 						"antiguedad":"1 año 8 meses",
 						"escolaridad":"Ingeniero Agrónomo zootecnista",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
-						"fotografia":"Formacion/Carla.jpg"
+						"fotografia":"Formacion/Carla.JPG"
 					},
 					"personal":[
 						{
@@ -90,7 +90,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Samantha.jpg"
+							"fotografia":"Formacion/Samantha.JPG"
 						},
 						{
 							"nombre":"Rosalba López Vázquez",
@@ -100,7 +100,7 @@
 							"antiguedad":"14 años",
 							"escolaridad":"Licenciatura en Contabilidad",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Rosalba.jpg"
+							"fotografia":"Formacion/Rosalba.JPG"
 						},
 						{
 							"nombre":"Martha Silvia Bolaños Sánchez",
@@ -110,7 +110,7 @@
 							"antiguedad":"3 años 5 meses",
 							"escolaridad":"Licenciatura en Sistemas Computacionales Administrativos y Maestria en Administracion de Recursos Humanos",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Martha.jpg"
+							"fotografia":"Formacion/Martha.JPG"
 						},
 						{
 							"nombre":"José Rafael Chimal Leonardo",
@@ -120,7 +120,7 @@
 							"antiguedad":"35 años",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Chimal.jpg"
+							"fotografia":"Formacion/Chimal.JPG"
 						},
 						{
 							"nombre":"María Idalia Intriago Moreno",
@@ -130,7 +130,7 @@
 							"antiguedad":"34 años 7 meses",
 							"escolaridad":"Licenciatura en Pedagogia con Especialidad en Formador de Formadores",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Idalia.jpg"
+							"fotografia":"Formacion/Idalia.JPG"
 						},
 						{
 							"nombre":"Ana Isabel Villa Chontal",
@@ -140,7 +140,7 @@
 							"antiguedad":"3 años",
 							"escolaridad":"Licenciatura Incompleta",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
-							"fotografia":"Formacion/Ana.jpg"
+							"fotografia":"Formacion/Ana.JPG"
 						}
 						]
 				},
@@ -154,7 +154,7 @@
 						"antiguedad":"",
 						"escolaridad":"",
 						"jefe":"",
-						"fotografia":"Hispano/.jpg"
+						"fotografia":"Hispano/.JPG"
 					},
 					"personal":[
 						{
@@ -165,7 +165,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"Bachillerato",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/Helen.jpg"
+							"fotografia":"Hispano/Helen.JPG"
 						},
 						{
 							"nombre":"Rafael Vélez Guzmán",
@@ -175,7 +175,7 @@
 							"antiguedad":"28 años 8 meses",
 							"escolaridad":"Licenciatura en Antropologia",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/Rafael.jpg"
+							"fotografia":"Hispano/Rafael.JPG"
 						},
 						{
 							"nombre":"María del Carmen Silvestra Zayas Domínguez",
@@ -185,7 +185,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/Carmen.jpg"
+							"fotografia":"Hispano/Carmen.JPG"
 						},
 						{
 							"nombre":"Jonathan Emanuel Limon Coello",
@@ -195,7 +195,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"12 vo. semestre de Licenciatura",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-							"fotografia":"Hispano/.jpg"
+							"fotografia":"Hispano/.JPG"
 						}
 						]
 				},
@@ -209,7 +209,7 @@
 					"antiguedad":"24 años 8 meses",
 					"escolaridad":"Carrera Comercial (Secretaria)",
 					"jefe":"JUANA MARIA MIRANDA CUEVAS",
-					"fotografia":"Hispano/Anabel.jpg"
+					"fotografia":"Hispano/Anabel.JPG"
 				}
 				}
 			]
@@ -225,7 +225,7 @@
 				"antiguedad":"",
 				"escolaridad":"",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"scso/Nemesio.jpg"
+				"fotografia":"scso/Nemesio.JPG"
 			},
 			"departamentos":[
 				{
@@ -238,7 +238,7 @@
 						"antiguedad":"24 años 8 meses",
 						"escolaridad":"Ingeniero Agrónomo zootecnista",
 						"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
-						"fotografia":"scso/manuel.jpg"
+						"fotografia":"scso/manuel.JPG"
 					},
 					"personal":[
 						{
@@ -249,7 +249,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"MANUEL HERNANDEZ SALVADOR",
-							"fotografia":"scso/cecy.jpg"
+							"fotografia":"scso/cecy.JPG"
 						},
 						{
 							"nombre":"María Ruth Romero Vargas",
@@ -259,7 +259,7 @@
 							"antiguedad":"13 años",
 							"escolaridad":"Maestra de Educación Primaria y Contador Público",
 							"jefe":"MANUEL HERNANDEZ SALVADOR",
-							"fotografia":"scso/ruth.jpg"
+							"fotografia":"scso/ruth.JPG"
 						},
 						{
 							"nombre":"Ernesto Alonso Osorio",
@@ -269,7 +269,7 @@
 							"antiguedad":"15 años",
 							"escolaridad":"Pasantía de Lic. en Sociología",
 							"jefe":"EVA RAMÍREZ HERNÁNDEZ",
-							"fotografia":"scso/ernesto.jpg"
+							"fotografia":"scso/ernesto.JPG"
 						},
 						{
 							"nombre":"Eva Ramírez Hernández",
@@ -279,7 +279,7 @@
 							"antiguedad":"9 años",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"MANUEL HERNANDEZ SALVADOR",
-							"fotografia":"scso/eva.jpg"
+							"fotografia":"scso/eva.JPG"
 						},
 						{
 							"nombre":"Blanca Lizeth Hernández Olivo",
@@ -288,7 +288,7 @@
 							"antiguedad":"5 años 6 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"MANUEL HERNANDEZ SALVADOR",
-							"fotografia":"scso/blanca.jpg"
+							"fotografia":"scso/blanca.JPG"
 						}
 					]
 				},
@@ -302,7 +302,7 @@
 						"antiguedad":"10 años 6 meses",
 						"escolaridad":"Licenciatura",
 						"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
-						"fotografia":"scso/karla.jpg"
+						"fotografia":"scso/karla.JPG"
 					},
 					"personal":[
 						{
@@ -313,7 +313,7 @@
 							"antiguedad":"8 años 1 mes",
 							"escolaridad":"Licenciatura en pedagogía",
 							"jefe":"KARLA IVETTE PEREZ ABURTO",
-							"fotografia":"scso/ana.jpg"
+							"fotografia":"scso/ana.JPG"
 						},
 						{
 							"nombre":"Roxana Lagunes Gongora",
@@ -323,7 +323,7 @@
 							"antiguedad":"1 año 8 meses",
 							"escolaridad":"Técnico Bachiller",
 							"jefe":"KARLA IVETTE PEREZ ABURTO",
-							"fotografia":"scso/roxana.jpg"
+							"fotografia":"scso/roxana.JPG"
 						},
 						{
 							"nombre":"Josefina Hernández Santos",
@@ -333,7 +333,7 @@
 							"antiguedad":"4 años 6 meses",
 							"escolaridad":"Licenciatura en Educación Media con Especialidad en Matemáticas",
 							"jefe":"KARLA IVETTE PEREZ ABURTO",
-							"fotografia":"scso/josefina.jpg"
+							"fotografia":"scso/josefina.JPG"
 						},
 						{
 							"nombre":"José Roberto Rodríguez Vázquez",
@@ -343,7 +343,7 @@
 							"antiguedad":"33 años",
 							"escolaridad":"Licenciatura Pedagogia",
 							"jefe":"KARLA IVETTE PEREZ ABURTO",
-							"fotografia":"scso/roberto.jpg"
+							"fotografia":"scso/roberto.JPG"
 						}
 					]
 				},
@@ -357,7 +357,7 @@
 					"antiguedad":"32 años 7 meses",
 					"escolaridad":"Bachillerato Tecnico en Contabilidad",
 					"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
-					"fotografia":"scso/lolis.jpg"
+					"fotografia":"scso/lolis.JPG"
 				}
 				}
 			]
@@ -373,7 +373,7 @@
 				"antiguedad":"5 años",
 				"escolaridad":"Maestría en Economía y Negocios, e Ingeniería Mecánica Eléctrica",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"SPPP/JuanCarlos.jpg"
+				"fotografia":"SPPP/JuanCarlos.JPG"
 			},
 			"departamentos":[
 				{
@@ -389,7 +389,7 @@
   					"antiguedad":"25 años",
   					"escolaridad":"Licenciatura en Contabilidad",
   					"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-  					"fotografia":"SPPP/Carmen.jpg"
+  					"fotografia":"SPPP/Carmen.JPG"
 					},
 					{
             "nombre":"Geovany Rafael Osorio Contreras ",
@@ -399,7 +399,7 @@
 						"antiguedad":"2 años",
 						"escolaridad":"Preparatoria",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-						"fotografia":"SPPP/giovanni.jpg"
+						"fotografia":"SPPP/giovanni.JPG"
 					}
 				]
 
@@ -414,7 +414,7 @@
 						"antiguedad":"11 años 4 meses",
 						"escolaridad":"Licenciatura",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-						"fotografia":"Presupuestacion/Isaac.jpg"
+						"fotografia":"Presupuestacion/Isaac.JPG"
 					},
 					"personal":[
 						{
@@ -425,7 +425,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Licenciatura en contaduría",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Rosalia.jpg"
+							"fotografia":"Presupuestacion/Rosalia.JPG"
 						},
 						{
 							"nombre":"Guadalupe Cruz Acevedo",
@@ -435,7 +435,7 @@
 							"antiguedad":"28 años",
 							"escolaridad":"Bachillerato Técnico en Computación fiscal contable",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Guadalupe.jpg"
+							"fotografia":"Presupuestacion/Guadalupe.JPG"
 						},
 						{
 							"nombre":"Gerardo Domínguez Sánchez",
@@ -445,7 +445,7 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Bachillerato y Carrera Técnica de Contabilidad",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Gerardo.jpg"
+							"fotografia":"Presupuestacion/Gerardo.JPG"
 						},
 						{
 							"nombre":"Gema Ruiz Mestizo",
@@ -455,7 +455,7 @@
 							"antiguedad":"34 años 1 mes",
 							"escolaridad":"Secundaria",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Gema.jpg"
+							"fotografia":"Presupuestacion/Gema.JPG"
 						},
 						{
 							"nombre":"Yool María Cervantes Téllez",
@@ -465,7 +465,7 @@
 							"antiguedad":"29 años 3 meses",
 							"escolaridad":"Carrera Comercial",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Yool.jpg"
+							"fotografia":"Presupuestacion/Yool.JPG"
 						},
 						{
 							"nombre":"Alejandra Isabel Mexicano Acosta",
@@ -475,7 +475,7 @@
 							"antiguedad":"33 años 11 meses",
 							"escolaridad":"Bachillerato",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Alejandra.jpg"
+							"fotografia":"Presupuestacion/Alejandra.JPG"
 						},
 						{
 							"nombre":"Carlos Manuel Jiménez Castro",
@@ -485,7 +485,7 @@
 							"antiguedad":"30 años 8 meses",
 							"escolaridad":"Pasante de Licenciatura",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/CarlosManuel.jpg"
+							"fotografia":"Presupuestacion/CarlosManuel.JPG"
 						},
 						{
 							"nombre":"María Victoria Domínguez Sánchez",
@@ -495,7 +495,7 @@
 							"antiguedad":"34 años 3 meses",
 							"escolaridad":"Carrera Técnica Secretariado Bilingüe",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Victoria.jpg"
+							"fotografia":"Presupuestacion/Victoria.JPG"
 						},
 						{
 							"nombre":"Lidia Amparo Velasco Vega",
@@ -505,7 +505,7 @@
 							"antiguedad":"34 años 4 meses",
 							"escolaridad":"Bachillerato, Propedéutico",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
-							"fotografia":"Presupuestacion/Lidia.jpg"
+							"fotografia":"Presupuestacion/Lidia.JPG"
 						}
 					]
 				},
@@ -519,7 +519,7 @@
 						"antiguedad":"2 años 1 mes",
 						"escolaridad":"Licenciatura en Administración de Empresas",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-						"fotografia":"Programacion/Bruno.jpg"
+						"fotografia":"Programacion/Bruno.JPG"
 					},
 					"personal":[
 						{
@@ -540,7 +540,7 @@
 							"antiguedad":"14 años",
 							"escolaridad":"Pasante de contador público",
 							"jefe":"JORGE ARTURO BRUNO CERECEDO",
-							"fotografia":"Programacion/Patricia.jpg"
+							"fotografia":"Programacion/Patricia.JPG"
 						},
 						{
 							"nombre":"Andrea González Gutierrez",
@@ -550,7 +550,7 @@
 							"antiguedad":"4 años 1 mes",
 							"escolaridad":"Licenciatura",
 							"jefe":"JORGE ARTURO BRUNO CERECEDO",
-							"fotografia":"Programacion/Andrea.jpg"
+							"fotografia":"Programacion/Andrea.JPG"
 						},
 						{
 							"nombre":"Armando Méndez Rangel",
@@ -560,7 +560,7 @@
 							"antiguedad":"2 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"JORGE ARTURO BRUNO CERECEDO",
-							"fotografia":"Programacion/Armando.jpg"
+							"fotografia":"Programacion/Armando.JPG"
 						},
 						{
 							"nombre":"María De Lourdes Sánchez Perea",
@@ -584,7 +584,7 @@
 						"antiguedad":"15 años",
 						"escolaridad":"Licenciatura Contaduria Pública",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-						"fotografia":"Planeacion/Diana.jpg"
+						"fotografia":"Planeacion/Diana.JPG"
 					},
 					"personal":[
 						{
@@ -595,7 +595,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Lic. en estadística y posgrado por la UV",
 							"jefe":"DIANA BRENDA PAREDES HERNÁNDEZ",
-							"fotografia":"Planeacion/Guillermo.jpg"
+							"fotografia":"Planeacion/Guillermo.JPG"
 						},
 						{
 							"nombre":"María del Carmen Cortés Herrera",
@@ -605,7 +605,7 @@
 							"antiguedad":"9 meses",
 							"escolaridad":"Lic. Administración de Negocios Internacionales y Lic. Educación para Adultos",
 							"jefe":"DIANA BRENDA PAREDES HERNÁNDEZ",
-							"fotografia":"Planeacion/Carmen.jpg"
+							"fotografia":"Planeacion/Carmen.JPG"
 						},
 						{
 							"nombre":"Jesús Alberto Alarcón Luna",
@@ -615,7 +615,7 @@
 							"antiguedad":"9 años 4 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"DIANA BRENDA PAREDES HERNÁNDEZ",
-							"fotografia":"Planeacion/Jesus.jpg"
+							"fotografia":"Planeacion/Jesus.JPG"
 						},
 						{
 							"nombre":"David López Olivo",
@@ -625,7 +625,7 @@
 							"antiguedad":"2 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"DIANA BRENDA PAREDES HERNÁNDEZ",
-							"fotografia":"Planeacion/David.jpg"
+							"fotografia":"Planeacion/David.JPG"
 						}
 					]
 				}
@@ -666,7 +666,7 @@
 							"antiguedad":"2 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-							"fotografia":"SASA/Aldo.jpg"
+							"fotografia":"SASA/Aldo.JPG"
 						},
 						{
 							"nombre":"Eva Luz Valencia Mora",
@@ -676,7 +676,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Licenciatura en Educacion",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-							"fotografia":"SASA/Eva.jpg"
+							"fotografia":"SASA/Eva.JPG"
 						},
 						{
 							"nombre":"Carlos Arturo Pérez Flores",
@@ -686,7 +686,7 @@
 							"antiguedad":"1 año 9 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-							"fotografia":"SASA/Arturo.jpg"
+							"fotografia":"SASA/Arturo.JPG"
 						},
 						{
 							"nombre":"Monserrath Pacheco Rivera",
@@ -696,7 +696,7 @@
 							"antiguedad":"3 años 1 mes",
 							"escolaridad":"Maestría en Administración Pública y Derecho",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-							"fotografia":"SASA/Monse.jpg"
+							"fotografia":"SASA/Monse.JPG"
 						},
 						{
 							"nombre":"María Concepción Delgado Cancino",
@@ -706,7 +706,7 @@
 							"antiguedad":"11 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-							"fotografia":"SASA/Conchis.jpg"
+							"fotografia":"SASA/Conchis.JPG"
 						}
 					]
 				},
@@ -720,7 +720,7 @@
 						"antiguedad":"11 años",
 						"escolaridad":"Licenciatura Antropologia y Maestría en Administración Pública",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-						"fotografia":"Certificacion/Griselda.jpg"
+						"fotografia":"Certificacion/Griselda.JPG"
 					},
 					"personal":[
 						{
@@ -731,7 +731,7 @@
 							"antiguedad":"24 años",
 							"escolaridad":"Licenciatura en Contaduria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Difusion/Chuy.jpg"
+							"fotografia":"Difusion/Chuy.JPG"
 						},
 						{
 							"nombre":"Rosa María Villa Melchor",
@@ -741,7 +741,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Preparatoria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Rosa.jpg"
+							"fotografia":"Certificacion/Rosa.JPG"
 						},
 						{
 							"nombre":"María Félix Cortés Rodríguez",
@@ -751,7 +751,7 @@
 							"antiguedad":"12 años",
 							"escolaridad":"Licenciatura en Educación de Adultos ",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Maria.jpg"
+							"fotografia":"Certificacion/Maria.JPG"
 						},
 						{
 							"nombre":"María Magdalena Vázquez Hernández",
@@ -761,7 +761,7 @@
 							"antiguedad":"32 años",
 							"escolaridad":"Secretaria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Magda.jpg"
+							"fotografia":"Certificacion/Magda.JPG"
 						},
 						{
 							"nombre":"Glenda Esperanza Mendoza Palmero",
@@ -771,7 +771,7 @@
 							"antiguedad":"19 años",
 							"escolaridad":"Carrera Comercial",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Glenda.jpg"
+							"fotografia":"Certificacion/Glenda.JPG"
 						},
 						{
 							"nombre":"Karen Graciela Favian Badillo",
@@ -781,7 +781,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Licenciatura incompleta",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Karen.jpg"
+							"fotografia":"Certificacion/Karen.JPG"
 						},
 						{
 							"nombre":"Josué Ivan Landa Campos",
@@ -791,7 +791,7 @@
 							"antiguedad":"7 años 9 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Josue.jpg"
+							"fotografia":"Certificacion/Josue.JPG"
 						},
 						{
 							"nombre":"Gloria Guadalupe Díaz Arteaga",
@@ -801,7 +801,7 @@
 							"antiguedad":"9 años",
 							"escolaridad":"Bachillerato",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Gloria.jpg"
+							"fotografia":"Certificacion/Gloria.JPG"
 						},
 						{
 							"nombre":"Bertha Salazar Salazar",
@@ -811,7 +811,7 @@
 							"antiguedad":"29 años",
 							"escolaridad":"Preparatoria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Bertha.jpg"
+							"fotografia":"Certificacion/Bertha.JPG"
 						},
 						{
 							"nombre":"Hermelinda Trujillo Rodríguez",
@@ -821,7 +821,7 @@
 							"antiguedad":"33 años 10 meses",
 							"escolaridad":"Preparatoria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Mely.jpg"
+							"fotografia":"Certificacion/Mely.JPG"
 						},
 						{
 							"nombre":"Dora Aguilar Sánchez",
@@ -831,7 +831,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura Pedagogia",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Dora.jpg"
+							"fotografia":"Certificacion/Dora.JPG"
 						},
 						{
 							"nombre":"Juan García Medina ",
@@ -841,7 +841,7 @@
 							"antiguedad":"33 años",
 							"escolaridad":"secundaria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Juan.jpg"
+							"fotografia":"Certificacion/Juan.JPG"
 						},
 						{
 							"nombre":"Agustin Martinez Peñuela",
@@ -851,7 +851,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Agustin.jpg"
+							"fotografia":"Certificacion/Agustin.JPG"
 						},
 						{
 							"nombre":"María Elena De La Luz Velasco",
@@ -861,7 +861,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Bachillerato Incompleto",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Elena.jpg"
+							"fotografia":"Certificacion/Elena.JPG"
 						},
 						{
 							"nombre":"Jenny",
@@ -871,7 +871,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura Pedagogia",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-							"fotografia":"Certificacion/Jenny.jpg"
+							"fotografia":"Certificacion/Jenny.JPG"
 						}
 					]
 				},
@@ -885,7 +885,7 @@
 						"antiguedad":"20 años",
 						"escolaridad":"Maestría en Derecho Procesal, Licenciatura en Derecho y Diplomado en Gestión Municipal ",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-						"fotografia":"Aprendizaje/Norma.jpg"
+						"fotografia":"Aprendizaje/Norma.JPG"
 					},
 					"personal":[
 						{
@@ -896,7 +896,7 @@
 							"antiguedad":"34 años 8 meses",
 							"escolaridad":"Bachillerato con Carrera Comercial",
 							"jefe":"NORMA ALICIA LOZANO CRUZ",
-							"fotografia":"Aprendizaje/Yolanda.jpg"
+							"fotografia":"Aprendizaje/Yolanda.JPG"
 						},
 						{
 							"nombre":"María Getulia Aguilar Sánchez",
@@ -906,7 +906,7 @@
 							"antiguedad":"34 años 8 meses",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"NORMA ALICIA LOZANO CRUZ",
-							"fotografia":"Aprendizaje/Getulia.jpg"
+							"fotografia":"Aprendizaje/Getulia.JPG"
 						}
 					]
 				},
@@ -920,7 +920,7 @@
 						"antiguedad":"15 años",
 						"escolaridad":"Maestria en Administración Pública",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-						"fotografia":"Acreditacion/Alma.jpg"
+						"fotografia":"Acreditacion/Alma.JPG"
 					},
 					"personal":[
 						{
@@ -931,7 +931,7 @@
 							"antiguedad":"5 años 6 meses",
 							"escolaridad":"Licenciatura en Contaduria",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-							"fotografia":"Acreditacion/Victor.jpg"
+							"fotografia":"Acreditacion/Victor.JPG"
 						},
 						{
 							"nombre":"Adriana Palavicini Arias",
@@ -941,7 +941,7 @@
 							"antiguedad":"3 años 4 meses",
 							"escolaridad":"Posgrado",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-							"fotografia":"Acreditacion/Adriana.jpg"
+							"fotografia":"Acreditacion/Adriana.JPG"
 						},
 						{
 							"nombre":"Lizbeth León Hernández",
@@ -951,7 +951,7 @@
 							"antiguedad":"6 años 8 meses",
 							"escolaridad":"Licenciatura en Educación Secundaria, Especialidad en Matemáticas",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-							"fotografia":"Acreditacion/Liz.jpg"
+							"fotografia":"Acreditacion/Liz.JPG"
 						},
 						{
 							"nombre":"Angel Méndez Sánchez",
@@ -961,7 +961,7 @@
 							"antiguedad":"16 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-							"fotografia":"Acreditacion/Angel.jpg"
+							"fotografia":"Acreditacion/Angel.JPG"
 						}
 					]
 				}
@@ -979,7 +979,7 @@
 				"antiguedad":"2 meses",
 				"escolaridad":"Contador Público",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"Financieros/hector.jpg"
+				"fotografia":"Financieros/hector.JPG"
 			},
 			"departamentos":[
 				{
@@ -992,7 +992,7 @@
 						"antiguedad":"1 mes",
 						"escolaridad":"Licenciatura",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-						"fotografia":"Humanos/miguelAngel.jpg"
+						"fotografia":"Humanos/miguelAngel.JPG"
 					},
 					"personal":[
 						{
@@ -1003,7 +1003,7 @@
 							"antiguedad":"33 años 8 meses",
 							"escolaridad":"Ingeniería/Especialidad",
 							"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"fotografia":"Humanos/berthita.jpg"
+							"fotografia":"Humanos/berthita.JPG"
 						},
 					{
 						"nombre":"Clara González Domínguez",
@@ -1013,7 +1013,7 @@
 						"antiguedad":"34 años 1 mes",
 						"escolaridad":"Bachillerato Técnico",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/clara.jpg"
+						"fotografia":"Humanos/clara.JPG"
 					},
 					{
 						"nombre":"María Celia Segura Castro",
@@ -1023,7 +1023,7 @@
 						"antiguedad":"26 años 3 mes",
 						"escolaridad":"Bachillerato Tecnico en Computación Fiscal Contable",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/celia.jpg"
+						"fotografia":"Humanos/celia.JPG"
 					},
 					{
 						"nombre":"José Ignacio Domínguez Monfil",
@@ -1033,7 +1033,7 @@
 						"antiguedad":"33 años",
 						"escolaridad":"Licenciatura",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/nacho.jpg"
+						"fotografia":"Humanos/nacho.JPG"
 					},
 					{
 						"nombre":"Aarón Sánchez Sorcia",
@@ -1043,7 +1043,7 @@
 						"antiguedad":"9 meses",
 						"escolaridad":"Licenciatura",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/aaron.jpg"
+						"fotografia":"Humanos/aaron.JPG"
 					},
 					{
 						"nombre":"Joel Damián San Román Pecero",
@@ -1053,7 +1053,7 @@
 						"antiguedad":"13 años",
 						"escolaridad":"Maestría En Alta Dirección Y Gestión Administrativa",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/sanroman.jpg"
+						"fotografia":"Humanos/sanroman.JPG"
 					},
 					{
 						"nombre":"Giovanna Rubi Hernandez Bello Romero",
@@ -1063,7 +1063,7 @@
 						"antiguedad":"3 días",
 						"escolaridad":"9 semestre de universidad",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/giovanna.jpg"
+						"fotografia":"Humanos/giovanna.JPG"
 					},
 					{
 						"nombre":"Uriel Orozco Beltrán",
@@ -1073,7 +1073,7 @@
 						"antiguedad":"25 años",
 						"escolaridad":"Pasante de contador público y auditor",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/uriel.jpg"
+						"fotografia":"Humanos/uriel.JPG"
 					},
 					{
 						"nombre":"Sara Gonzalez Velez",
@@ -1083,7 +1083,7 @@
 						"antiguedad":"30 años 15 días",
 						"escolaridad":"Bachillerato Tecnico",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-						"fotografia":"Humanos/sara.jpg"
+						"fotografia":"Humanos/sara.JPG"
 					}
 				]
 				},
@@ -1097,7 +1097,7 @@
 						"antiguedad":"1 mes",
 						"escolaridad":"Contador Público y Auditor",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-						"fotografia":"Financieros/cpgustavo.jpg"
+						"fotografia":"Financieros/cpgustavo.JPG"
 					},
 					"personal":[
 						{
@@ -1108,7 +1108,7 @@
 							"antiguedad":"1 año 9 meses",
 							"escolaridad":"Ingeniería/Especialidad",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/rene.jpg"
+							"fotografia":"Financieros/rene.JPG"
 						},
 						{
 							"nombre":"José Javier Murrieta Dominguez",
@@ -1118,7 +1118,7 @@
 							"antiguedad":"2 años 2 meses",
 							"escolaridad":"Contador Publico",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/javierMurrieta.jpg"
+							"fotografia":"Financieros/javierMurrieta.JPG"
 						},
 						{
 							"nombre":"Juan Luis Torres Díaz",
@@ -1128,7 +1128,7 @@
 							"antiguedad":"2 años 6 meses",
 							"escolaridad":"Maestria",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/juanluis.jpg"
+							"fotografia":"Financieros/juanluis.JPG"
 						},
 						{
 							"nombre":"Germán Reyes Jimenez",
@@ -1138,7 +1138,7 @@
 							"antiguedad":"1 meses",
 							"escolaridad":"Preparatoria",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/german.jpg"
+							"fotografia":"Financieros/german.JPG"
 						},
 						{
 							"nombre":"Gustavo Javier Nava Lince",
@@ -1148,7 +1148,7 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/gustavo.jpg"
+							"fotografia":"Financieros/gustavo.JPG"
 						},
 						{
 							"nombre":"Silvia Villalobos Villanueva",
@@ -1158,7 +1158,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/silvia.jpg"
+							"fotografia":"Financieros/silvia.JPG"
 						},
 						{
 							"nombre":"Citlali Landa Zavaleta",
@@ -1168,7 +1168,7 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/citlali.jpg"
+							"fotografia":"Financieros/citlali.JPG"
 						},
 						{
 							"nombre":"Blanca Jimenez del Valle",
@@ -1178,7 +1178,7 @@
 							"antiguedad":"19 años",
 							"escolaridad":"Contador Público",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/blancaJimenez.jpg"
+							"fotografia":"Financieros/blancaJimenez.JPG"
 						},
 						{
 							"nombre":"Gaudencia García Cruz",
@@ -1188,7 +1188,7 @@
 							"antiguedad":"34 años",
 							"escolaridad":"6to de Pedagogia",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/lore.jpg"
+							"fotografia":"Financieros/lore.JPG"
 						},
 						{
 							"nombre":"Rosalba Pasarón González",
@@ -1198,7 +1198,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Posgrado",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/rosalba.jpg"
+							"fotografia":"Financieros/rosalba.JPG"
 						},
 						{
 							"nombre":"Alicia Ortega Rosas",
@@ -1208,7 +1208,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Preparatoria y Secretariado",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/alicia.jpg"
+							"fotografia":"Financieros/alicia.JPG"
 						},
 						{
 							"nombre":"Clemente Cruz Figueroa",
@@ -1218,7 +1218,7 @@
 							"antiguedad":"27 años",
 							"escolaridad":"Contador Público",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/clemente.jpg"
+							"fotografia":"Financieros/clemente.JPG"
 						},
 						{
 							"nombre":"Ana María Nuñez Ortega",
@@ -1228,7 +1228,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Maestría en Administración",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/anaMaria.jpg"
+							"fotografia":"Financieros/anaMaria.JPG"
 						},
 						{
 							"nombre":"Miriam Veronica Ramirez",
@@ -1238,7 +1238,7 @@
 							"antiguedad":"13 años",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/miriam.jpg"
+							"fotografia":"Financieros/miriam.JPG"
 						},
 						{
 							"nombre":"Aida Ortega Ortega",
@@ -1248,7 +1248,7 @@
 							"antiguedad":"25 años 8 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/aida.jpg"
+							"fotografia":"Financieros/aida.JPG"
 						},
 						{
 							"nombre":"Mercedes González Guzmán",
@@ -1258,7 +1258,7 @@
 							"antiguedad":"10 años 2 meses",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/meche.jpg"
+							"fotografia":"Financieros/meche.JPG"
 						},
 						{
 							"nombre":"Juana Fernández Sanchez",
@@ -1268,7 +1268,7 @@
 							"antiguedad":"34 años",
 							"escolaridad":"AUXILIAR CONTABLE",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-							"fotografia":"Financieros/juanita.jpg"
+							"fotografia":"Financieros/juanita.JPG"
 						}
 					]
 				},
@@ -1282,7 +1282,7 @@
 						"antiguedad":"33 años",
 						"escolaridad":"Licenciatura en Educación para Adultos",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-						"fotografia":"Materiales/willy.jpg"
+						"fotografia":"Materiales/willy.JPG"
 					},
 					"personal":[
 						{
@@ -1293,7 +1293,7 @@
 							"antiguedad":"1 mes 15 días",
 							"escolaridad":"Licenciatura",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/jesus.jpg"
+							"fotografia":"Materiales/jesus.JPG"
 						},
 						{
 							"nombre":"Isabel Santamaria Rivera",
@@ -1303,7 +1303,7 @@
 							"antiguedad":"26 años",
 							"escolaridad":"Bachillerato Tecnologico",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/chabelita.jpg"
+							"fotografia":"Materiales/chabelita.JPG"
 						},
 						{
 							"nombre":"Joel Hernandez Vazquez",
@@ -1313,7 +1313,7 @@
 							"antiguedad":"17 años",
 							"escolaridad":"Licenciatura Contaduria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/joel.jpg"
+							"fotografia":"Materiales/joel.JPG"
 						},
 						{
 							"nombre":"José Arturo Robles Romero",
@@ -1323,7 +1323,7 @@
 							"antiguedad":"32 años",
 							"escolaridad":"Licenciatura en Administración de Empresas",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/arturo.jpg"
+							"fotografia":"Materiales/arturo.JPG"
 						},
 						{
 							"nombre":"José Blaz Filiberto Andrade Viccon",
@@ -1333,7 +1333,7 @@
 							"antiguedad":"19 años",
 							"escolaridad":"Preparatoria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/filiberto.jpg"
+							"fotografia":"Materiales/filiberto.JPG"
 						},
 						{
 							"nombre":"Nicandro Pulido Hernández",
@@ -1343,7 +1343,7 @@
 							"antiguedad":"14 años",
 							"escolaridad":"Básica",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/nicandro.jpg"
+							"fotografia":"Materiales/nicandro.JPG"
 						},
 						{
 							"nombre":"Gumersindo Hermilo Carpintero Hernández",
@@ -1353,7 +1353,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Preparatoria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/carpi.jpg"
+							"fotografia":"Materiales/carpi.JPG"
 						},
 						{
 							"nombre":"Salvador Murrieta Cervantes",
@@ -1363,7 +1363,7 @@
 							"antiguedad":"10 años",
 							"escolaridad":"Maestria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/chava.jpg"
+							"fotografia":"Materiales/chava.JPG"
 						},
 						{
 							"nombre":"Dulce MaríaCerrillo Sánchez",
@@ -1373,7 +1373,7 @@
 							"antiguedad":"11 años",
 							"escolaridad":"Bachillerato",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-							"fotografia":"Materiales/Dulce.jpg"
+							"fotografia":"Materiales/Dulce.JPG"
 						}
 					]
 				},
@@ -1387,7 +1387,7 @@
 						"antiguedad":"10 años",
 						"escolaridad":"Licenciatura",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-						"fotografia":"Tecnologias/hernan.jpg"
+						"fotografia":"Tecnologias/hernan.JPG"
 					},
 					"personal":[
 						{
@@ -1398,7 +1398,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-							"fotografia":"Tecnologias/cesar.jpg"
+							"fotografia":"Tecnologias/cesar.JPG"
 						},
 						{
 							"nombre":"Christian Gustavo Franco Rodriguez",
@@ -1408,7 +1408,7 @@
 							"antiguedad":"1 año",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-							"fotografia":"Tecnologias/christian.jpg"
+							"fotografia":"Tecnologias/christian.JPG"
 						},
 						{
 							"nombre":"Reyna Alejandra Ortega Hernandez",
@@ -1418,7 +1418,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-							"fotografia":"Tecnologias/reyna.jpg"
+							"fotografia":"Tecnologias/reyna.JPG"
 						},
 						{
 							"nombre":"Jeronimo Juarez Aburto",
@@ -1428,7 +1428,7 @@
 							"antiguedad":"24 años 3 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-							"fotografia":"Tecnologias/jero.jpg"
+							"fotografia":"Tecnologias/jero.JPG"
 						},
 						{
 							"nombre":"Marilu Rivas Garcia",
@@ -1438,7 +1438,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-							"fotografia":"Tecnologias/malu.jpg"
+							"fotografia":"Tecnologias/malu.JPG"
 						}
 					]
 				},
@@ -1452,7 +1452,7 @@
 					"antiguedad":"1 mes y medio",
 					"escolaridad":"Licenciatura",
 					"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-					"fotografia":"Financieros/karem.jpg"
+					"fotografia":"Financieros/karem.JPG"
 				}
 				}
 			]
@@ -1468,7 +1468,7 @@
 				"antiguedad":"",
 				"escolaridad":"",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"Territorial/Ismael.jpg"
+				"fotografia":"Territorial/Ismael.JPG"
 			},
       "departamentos":[
 				{
@@ -1481,7 +1481,7 @@
 						"antiguedad":"3 años",
 						"escolaridad":"Maestra en Contabilidad y Gestión Gubernamental, Licenciada en Contaduría y Licenciada en Derecho",
 						"jefe":"ISMAEL VEGA DELGADO",
-						"fotografia":"Territorial/Aide.jpg"
+						"fotografia":"Territorial/Aide.JPG"
 			  }
 			},
 			{
@@ -1494,7 +1494,7 @@
 					"antiguedad":"1 año 6 meses",
 					"escolaridad":"Ingeniería Industrial ",
 					"jefe":"ISMAEL VEGA DELGADO",
-					"fotografia":"Territorial/Silvia.jpg"
+					"fotografia":"Territorial/Silvia.JPG"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 				"antiguedad":"11 años 7 meses",
 				"escolaridad":"Ingeniería Industrial ",
 				"jefe":"ISMAEL VEGA DELGADO",
-				"fotografia":"Territorial/Atala.jpg"
+				"fotografia":"Territorial/Atala.JPG"
 		}
 	}
       ]
@@ -1529,7 +1529,7 @@
 				"antiguedad":"11 años 5 meses",
 				"escolaridad":"Profa. Jardín de Niños",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"CD/Maye.jpg"
+				"fotografia":"CD/Maye.JPG"
 			},
 			"personal":[
 				{
@@ -1540,7 +1540,7 @@
 					"antiguedad":"25 años",
 					"escolaridad":"Preparatoria y carrera técnica contabilidad fiscal",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
-					"fotografia":"CD/Gaby.jpg"
+					"fotografia":"CD/Gaby.JPG"
 				},
 				{
 					"nombre":"Juan Apolinar Ortega Hernández",
@@ -1550,7 +1550,7 @@
 					"antiguedad":"22 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
-					"fotografia":"CD/Juanito.jpg"
+					"fotografia":"CD/Juanito.JPG"
 				},
 				{
 					"nombre":"Hugo Arturo González Hernández",
@@ -1560,7 +1560,7 @@
 					"antiguedad":"35 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
-					"fotografia":"CD/Arturo.jpg"
+					"fotografia":"CD/Arturo.JPG"
 				}
 			]
 		},
@@ -1575,7 +1575,7 @@
 				"antiguedad":"2 meses",
 				"escolaridad":"Maestria",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"Juridico/Tania.jpg"
+				"fotografia":"Juridico/Tania.JPG"
 			},
 			"personal":[
 				{
@@ -1586,7 +1586,7 @@
 					"antiguedad":"25 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
-					"fotografia":"Juridico/Rocio.jpg"
+					"fotografia":"Juridico/Rocio.JPG"
 				},
 				{
 					"nombre":"Anabel Tapia Viveros",
@@ -1596,7 +1596,7 @@
 					"antiguedad":"1 año 16 días",
 					"escolaridad":"Maestría en Derecho Procesal ",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
-					"fotografia":"Juridico/Anabel.jpg"
+					"fotografia":"Juridico/Anabel.JPG"
 				},
 				{
 					"nombre":"Alfredo Martínez Barría",
@@ -1606,7 +1606,7 @@
 					"antiguedad":"1 año 7 meses",
 					"escolaridad":"Licenciatura en Derecho",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
-					"fotografia":"Juridico/Alfredo.jpg"
+					"fotografia":"Juridico/Alfredo.JPG"
 				}
 			]
 		},
@@ -1621,7 +1621,7 @@
 				"antiguedad":"2 meses",
 				"escolaridad":"Licenciatura",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"Difusion/Alma.jpg"
+				"fotografia":"Difusion/Alma.JPG"
 			},
 			"personal":[
 				{
@@ -1632,7 +1632,7 @@
 					"antiguedad":"28 años 8 meses",
 					"escolaridad":"Preparatoria",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Fortino.jpg"
+					"fotografia":"Difusion/Fortino.JPG"
 				},
 				{
 					"nombre":"Rosario Magali  Cruz Martínez",
@@ -1642,7 +1642,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura en Derecho",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Rosario.jpg"
+					"fotografia":"Difusion/Rosario.JPG"
 				},
 				{
 					"nombre":"Carlos Hugo Santander Luna",
@@ -1652,7 +1652,7 @@
 					"antiguedad":"4 años 6 meses",
 					"escolaridad":"Bachillerato",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Carlos.jpg"
+					"fotografia":"Difusion/Carlos.JPG"
 				},
 				{
 					"nombre":"Jorge Antonio Gómez Pérez",
@@ -1662,7 +1662,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Jorge.jpg"
+					"fotografia":"Difusion/Jorge.JPG"
 				},
 				{
 					"nombre":"Doralina Quesada Sedas",
@@ -1672,7 +1672,7 @@
 					"antiguedad":"23 años",
 					"escolaridad":"Licenciatura",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Doris.jpg"
+					"fotografia":"Difusion/Doris.JPG"
 				},
 				{
 					"nombre":"Iris Isabel Ramírez García",
@@ -1682,7 +1682,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura en Ciencias de la Educación",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-					"fotografia":"Difusion/Iris.jpg"
+					"fotografia":"Difusion/Iris.JPG"
 				}
 			]
 		},
@@ -1711,7 +1711,7 @@
 				"antiguedad":"1 año 9 meses",
 				"escolaridad":"Licenciatura",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-				"fotografia":"KarinaCortes.jpg"
+				"fotografia":"KarinaCortes.JPG"
 			}
 		}
 		]
