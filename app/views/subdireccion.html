@@ -9,7 +9,7 @@
         <span"text-muted">{{subdireccion.titular.cargo}}</span>
       </a>
       <!-- Subireccion-->
-      <ul>
+      <ul ng-if="subdireccion.departamentos">
         <li ng-repeat="dep in subdireccion.departamentos">
           <a ng-click="select(dep,0)">
             <b>{{dep.area}}</b>
@@ -31,4 +31,19 @@
       </ul>
     </li>
   </ul>
+
+  <!-- personal -->
+
+  <ul  ng-if="subdireccion.personal" class="down">
+    <li ng-repeat="per in subdireccion.personal">
+      <a ng-click="select(per,0, dep.area)">
+        {{per.nombre}}
+        <br>
+        <span class="text-muted">{{per.cargo}}</span>
+      </a>
+    </dd>
+  </li>
+</li>
+</ul>
+</ul>
 </div>

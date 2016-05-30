@@ -39,18 +39,25 @@
                 {{mostrar.titular.antiguedad}}
               </p>
             </div>
-			<div ng-if="mostrar.titular.jefe">
+			         <div ng-if="mostrar.titular.jefe">
               <h4><b>Jefe Inmediato</h4></b>
               <p>
                 {{mostrar.titular.jefe}}
               </p>
             </div>
+            <div ng-if="mostrar.titular.correo">
+           <h4><b>Correo Electronico</h4></b>
+           <p>
+             {{mostrar.titular.correo}}
+           </p>
+         </div>
             <div ng-if="mostrar.titular.actividades">
               <h4><b>Actividades</h4></b>
               <p class="TextoInicio">
                 {{mostrar.titular.actividades}}
               </p>
             </div>
+
           </div>
         </div>
       </div>
