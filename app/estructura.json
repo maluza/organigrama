@@ -416,7 +416,7 @@
 				"antiguedad":"5 años",
 				"escolaridad":"Maestría en Economía y Negocios, e Ingeniería Mecánica Eléctrica",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-					"correo":"",
+					"correo":"jolvera@inea.gob.mx",
 				"fotografia":"SPPP/JuanCarlos.JPG"
 			},
 			"departamentos":[
@@ -861,7 +861,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Licenciatura incompleta",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"kgfavian@inea.gob.mx",
 							"fotografia":"Certificacion/Karen.JPG"
 						},
 						{
@@ -872,7 +872,7 @@
 							"antiguedad":"7 años 9 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"jilanda@inea.gob.mx",
 							"fotografia":"Certificacion/Josue.JPG"
 						},
 						{
@@ -883,7 +883,7 @@
 							"antiguedad":"9 años",
 							"escolaridad":"Bachillerato",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"diaza@inea.gob.mx",
 							"fotografia":"Certificacion/Gloria.JPG"
 						},
 						{
@@ -894,7 +894,7 @@
 							"antiguedad":"29 años",
 							"escolaridad":"Preparatoria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"bsalazar@inea.gob.mx",
 							"fotografia":"Certificacion/Bertha.JPG"
 						},
 						{
@@ -905,7 +905,7 @@
 							"antiguedad":"33 años 10 meses",
 							"escolaridad":"Preparatoria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"htrujillo@inea.gob.mx",
 							"fotografia":"Certificacion/Mely.JPG"
 						},
 						{
@@ -916,7 +916,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura Pedagogia",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"daguilar@inea.gob.mx",
 							"fotografia":"Certificacion/Dora.JPG"
 						},
 						{
@@ -927,7 +927,7 @@
 							"antiguedad":"33 años",
 							"escolaridad":"secundaria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"garciam@inea.gob.mx",
 							"fotografia":"Certificacion/Juan.JPG"
 						},
 						{
@@ -938,7 +938,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"amartinezp@inea.gob.mx",
 							"fotografia":"Certificacion/Agustin.JPG"
 						},
 						{
@@ -949,7 +949,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Bachillerato Incompleto",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"medelaluz@inea.gob.mx",
 							"fotografia":"Certificacion/Elena.JPG"
 						},
 						{
@@ -960,8 +960,19 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Licenciatura Contaduria",
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"",
+								"correo":"jdcuevas@inea.gob.mx",
 							"fotografia":"Certificacion/Jenny.JPG"
+						},
+						{
+						  "nombre":"María Del Rosario Sánchez López",
+						  "cargo":"Secretaria C COMISIONADA A SINDICATO",
+						  "actividades":"Comisionada a Sindicato",
+						  "contrato":"Base",
+						  "antiguedad":"30 años",
+						  "escolaridad":"Preparatoria",
+						  "jefe":"GRISELDA TOTOMOL CUEVAS",
+								"correo":"mrsanchez@inea.gob.mx",
+						  "fotografia":"Sindicato/Charito.JPG"
 						}
 					]
 				},
@@ -975,7 +986,7 @@
 						"antiguedad":"20 años",
 						"escolaridad":"Maestría en Derecho Procesal, Licenciatura en Derecho y Diplomado en Gestión Municipal ",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-							"correo":"",
+							"correo":"nalozano@inea.gob.mx",
 						"fotografia":"Aprendizaje/Norma.JPG"
 					},
 					"personal":[
@@ -987,7 +998,7 @@
 							"antiguedad":"34 años 8 meses",
 							"escolaridad":"Bachillerato con Carrera Comercial",
 							"jefe":"NORMA ALICIA LOZANO CRUZ",
-								"correo":"",
+								"correo":"yaguilar@inea.gob.mx",
 							"fotografia":"Aprendizaje/Yolanda.JPG"
 						},
 						{
@@ -998,7 +1009,7 @@
 							"antiguedad":"34 años 8 meses",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"NORMA ALICIA LOZANO CRUZ",
-								"correo":"",
+								"correo":"mgaguilar@inea.gob.mx",
 							"fotografia":"Aprendizaje/Getulia.JPG"
 						}
 					]
@@ -1013,7 +1024,7 @@
 						"antiguedad":"15 años",
 						"escolaridad":"Maestria en Administración Pública",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
-							"correo":"",
+							"correo":"aolivier@inea.gob.mx",
 						"fotografia":"Acreditacion/Alma.JPG"
 					},
 					"personal":[
@@ -1025,7 +1036,7 @@
 							"antiguedad":"5 años 6 meses",
 							"escolaridad":"Licenciatura en Contaduria",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-								"correo":"",
+								"correo":"vherrera@inea.gob.mx",
 							"fotografia":"Acreditacion/Victor.JPG"
 						},
 						{
@@ -1036,7 +1047,7 @@
 							"antiguedad":"3 años 4 meses",
 							"escolaridad":"Posgrado",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-								"correo":"",
+								"correo":"apalavicini@inea.gob.mx",
 							"fotografia":"Acreditacion/Adriana.JPG"
 						},
 						{
@@ -1047,7 +1058,7 @@
 							"antiguedad":"6 años 8 meses",
 							"escolaridad":"Licenciatura en Educación Secundaria, Especialidad en Matemáticas",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-								"correo":"",
+								"correo":"leonh@inea.gob.mx",
 							"fotografia":"Acreditacion/Liz.JPG"
 						},
 						{
@@ -1058,12 +1069,25 @@
 							"antiguedad":"16 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"ALMA OLIVIER SANDOBAL",
-								"correo":"",
+								"correo":"amendezs@inea.gob.mx",
 							"fotografia":"Acreditacion/Angel.JPG"
 						}
 					]
+				},
+				{
+					"area":"Subdireccion",
+					"titular":{
+						"nombre":"Albertina Carmona Vega",
+						"cargo":"Auxiliar Administrativo",
+						"actividades":"Integrar y atender la agenda ejecutiva del Subdirector del área. Recepción y turno de la documentación institucional del área Clasificación de la documentación recibida para ser turnada a los Departamentos de la Subdirección.  Elaboración, entrega y archivo de los documentos propios de la Subdirección Envío de la correspondencia de la Subdirección Elaboración de viáticos y comprobación de los mismos del Subdirector de área Apoyo de diversas actividades que requiera el Departamento de Acreditación",
+						"contrato":"Base",
+						"antiguedad":"34 años 4 meses",
+						"escolaridad":"Carrera Tecnica",
+						"jefe":"DANIEL DEMENEGHI GAMBOA",
+							"correo":"acarmona@inea.gob.mx",
+						"fotografia":"Betty.JPG"
+					}
 				}
-
 			]
 		},
 		{
@@ -1103,7 +1127,7 @@
 							"antiguedad":"33 años 8 meses",
 							"escolaridad":"Ingeniería/Especialidad",
 							"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-								"correo":"",
+								"correo":"mbhernandez@inea.gob.mx",
 							"fotografia":"Humanos/berthita.JPG"
 						},
 					{
@@ -1114,7 +1138,7 @@
 						"antiguedad":"34 años 1 mes",
 						"escolaridad":"Bachillerato Técnico",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"gonzaled@inea.gob.mx",
 						"fotografia":"Humanos/clara.JPG"
 					},
 					{
@@ -1125,7 +1149,7 @@
 						"antiguedad":"26 años 3 mes",
 						"escolaridad":"Bachillerato Tecnico en Computación Fiscal Contable",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"mcsegura@inea.gob.mx",
 						"fotografia":"Humanos/celia.JPG"
 					},
 					{
@@ -1136,7 +1160,7 @@
 						"antiguedad":"33 años",
 						"escolaridad":"Licenciatura",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"jidominguez@inea.gob.mx",
 						"fotografia":"Humanos/nacho.JPG"
 					},
 					{
@@ -1158,7 +1182,7 @@
 						"antiguedad":"13 años",
 						"escolaridad":"Maestría En Alta Dirección Y Gestión Administrativa",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"jdsanroman@inea.gob.mx",
 						"fotografia":"Humanos/sanroman.JPG"
 					},
 					{
@@ -1180,7 +1204,7 @@
 						"antiguedad":"25 años",
 						"escolaridad":"Pasante de contador público y auditor",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"uorozco@inea.gob.mx",
 						"fotografia":"Humanos/uriel.JPG"
 					},
 					{
@@ -1191,7 +1215,7 @@
 						"antiguedad":"30 años 15 días",
 						"escolaridad":"Bachillerato Tecnico",
 						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"",
+							"correo":"gonzalezv@inea.gob.mx",
 						"fotografia":"Humanos/Sara.JPG"
 					}
 				]
@@ -1218,7 +1242,7 @@
 							"antiguedad":"1 año 9 meses",
 							"escolaridad":"Ingeniería/Especialidad",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"riherrera@inea.gob.mx",
 							"fotografia":"Financieros/rene.JPG"
 						},
 						{
@@ -1229,7 +1253,7 @@
 							"antiguedad":"2 años 2 meses",
 							"escolaridad":"Contador Publico",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"jjmurrieta@inea.gob.mx",
 							"fotografia":"Financieros/javierMurrieta.JPG"
 						},
 						{
@@ -1240,7 +1264,7 @@
 							"antiguedad":"2 años 6 meses",
 							"escolaridad":"Maestria",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"jltorres@inea.gob.mx",
 							"fotografia":"Financieros/juanluis.JPG"
 						},
 						{
@@ -1262,7 +1286,7 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"gjnava@inea.gob.mx",
 							"fotografia":"Financieros/gustavo.JPG"
 						},
 						{
@@ -1273,6 +1297,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
+								"correo":"svillalobos@inea.gob.mx",
 							"fotografia":"Financieros/silvia.JPG"
 						},
 						{
@@ -1283,7 +1308,7 @@
 							"antiguedad":"6 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"clanda@inea.gob.mx",
 							"fotografia":"Financieros/citlali.JPG"
 						},
 						{
@@ -1294,7 +1319,7 @@
 							"antiguedad":"19 años",
 							"escolaridad":"Contador Público",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"bjimenez@inea.gob.mx",
 							"fotografia":"Financieros/blancaJimenez.JPG"
 						},
 						{
@@ -1305,7 +1330,7 @@
 							"antiguedad":"34 años",
 							"escolaridad":"6to de Pedagogia",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"ggarcia@inea.gob.mx",
 							"fotografia":"Financieros/lore.JPG"
 						},
 						{
@@ -1316,7 +1341,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Posgrado",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"rpasaron@inea.gob.mx",
 							"fotografia":"Financieros/rosalba.JPG"
 						},
 						{
@@ -1327,7 +1352,7 @@
 							"antiguedad":"30 años",
 							"escolaridad":"Preparatoria y Secretariado",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"aortegar@inea.gob.mx",
 							"fotografia":"Financieros/alicia.JPG"
 						},
 						{
@@ -1338,7 +1363,7 @@
 							"antiguedad":"27 años",
 							"escolaridad":"Contador Público",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"cruzf@inea.gob.mx",
 							"fotografia":"Financieros/clemente.JPG"
 						},
 						{
@@ -1349,7 +1374,7 @@
 							"antiguedad":"7 años",
 							"escolaridad":"Maestría en Administración",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"amnunez@inea.gob.mx",
 							"fotografia":"Financieros/anaMaria.JPG"
 						},
 						{
@@ -1371,7 +1396,7 @@
 							"antiguedad":"25 años 8 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"ortegao@inea.gob.mx",
 							"fotografia":"Financieros/aida.JPG"
 						},
 						{
@@ -1382,7 +1407,7 @@
 							"antiguedad":"10 años 2 meses",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"mgonzalez@inea.gob.mx",
 							"fotografia":"Financieros/meche.JPG"
 						},
 						{
@@ -1393,8 +1418,19 @@
 							"antiguedad":"34 años",
 							"escolaridad":"AUXILIAR CONTABLE",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"fernandezs@inea.gob.mx",
 							"fotografia":"Financieros/juanita.JPG"
+						},
+						{
+						  "nombre":"Beatriz Flores Nuñez",
+						  "cargo":"Jefe de Oficina COMISIONADA A SINDICATO",
+						  "actividades":"De Analista Administrativa",
+						  "contrato":"Base",
+						  "antiguedad":"33 años 3 meses",
+						  "escolaridad":"Pasante de Economía",
+						  "jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+								"correo":"bflores@inea.gob.mx",
+						  "fotografia":"Sindicato/Betty.JPG"
 						}
 					]
 				},
@@ -1431,7 +1467,7 @@
 							"antiguedad":"26 años",
 							"escolaridad":"Bachillerato Tecnologico",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"isantamaria@inea.gob.mx",
 							"fotografia":"Materiales/chabelita.JPG"
 						},
 						{
@@ -1442,7 +1478,7 @@
 							"antiguedad":"17 años",
 							"escolaridad":"Licenciatura Contaduria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"jhernandezv@inea.gob.mx",
 							"fotografia":"Materiales/joel.JPG"
 						},
 						{
@@ -1453,7 +1489,7 @@
 							"antiguedad":"32 años",
 							"escolaridad":"Licenciatura en Administración de Empresas",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"jarobles@inea.gob.mx",
 							"fotografia":"Materiales/arturo.JPG"
 						},
 						{
@@ -1475,7 +1511,7 @@
 							"antiguedad":"14 años",
 							"escolaridad":"Básica",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"npulido@inea.gob.mx",
 							"fotografia":"Materiales/nicandro.JPG"
 						},
 						{
@@ -1497,19 +1533,41 @@
 							"antiguedad":"10 años",
 							"escolaridad":"Maestria",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"smurrieta@inea.gob.mx",
 							"fotografia":"Materiales/chava.JPG"
 						},
 						{
-							"nombre":"Dulce MaríaCerrillo Sánchez",
+							"nombre":"Dulce María Cerrillo Sánchez",
 							"cargo":"Operadora de Conmutador",
 							"actividades":"Las funciones que desempeño en mi área son con el fin de dar seguimiento a las llamadas telefónicas que diariamente se reciben en las oficinas del IVEA y atención a conmutador tanto llamadas entrantes como salientes a nivel Estado y Nacionales, del mismo modo, se controlan las visitas de personal que llega  a pedir información y servicio, sobre todo para atención de certificados y estudios de primaria y secundaria,  asimismo se le brinda  apoyo al área de Control Documental, recibiendo y capturando paquetería y documentos, derivado de la carga de trabajo.",
 							"contrato":"Honorarios",
 							"antiguedad":"11 años",
 							"escolaridad":"Bachillerato",
 							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+								"correo":"dmcerrillo@inea.gob.mx",
 							"fotografia":"Materiales/Dulce.JPG"
+						},
+						{
+							"nombre":"María Del Roxel Orrico Castillo",
+							"cargo":"Auxiliar",
+							"actividades":"",
+							"contrato":"Honorarios",
+							"antiguedad":"2 años",
+							"escolaridad":"Licenciatura",
+							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+								"correo":"mrorrico@inea.gob.mx",
+							"fotografia":""
+						},
+						{
+						  "nombre":"Rebeca Figueroa Carlín",
+						  "cargo":"Secretaria C COMISIONADA A SINDICATO",
+						  "actividades":"Contestar teléfono,entrega de información a diferentes áreas y dependencias,archivar y las inherentes al departammento.",
+						  "contrato":"Base",
+						  "antiguedad":"35 años",
+						  "escolaridad":"Carrera Inconclusa",
+						  "jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+								"correo":"figueroac@inea.gob.mx",
+						  "fotografia":"Sindicato/Rebeca.JPG"
 						},
 						{
 							"nombre":"Manuel Amado Del Río Golffier",
@@ -1633,7 +1691,7 @@
 						"antiguedad":"10 años",
 						"escolaridad":"Licenciatura",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-							"correo":"",
+							"correo":"htenorio@inea.gob.mx",
 						"fotografia":"Tecnologias/hernan.JPG"
 					},
 					"personal":[
@@ -1645,7 +1703,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"",
+								"correo":"cencarnacion@inea.gob.mx",
 							"fotografia":"Tecnologias/cesar.JPG"
 						},
 						{
@@ -1656,7 +1714,7 @@
 							"antiguedad":"1 año",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"",
+								"correo":"cgfranco@inea.gob.mx",
 							"fotografia":"Tecnologias/christian.JPG"
 						},
 						{
@@ -1667,7 +1725,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"",
+								"correo":"raortega@inea.gob.mx",
 							"fotografia":"Tecnologias/reyna.JPG"
 						},
 						{
@@ -1678,7 +1736,7 @@
 							"antiguedad":"24 años 3 meses",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"",
+								"correo":"jjuarez@inea.gob.mx",
 							"fotografia":"Tecnologias/jero.JPG"
 						},
 						{
@@ -1689,7 +1747,7 @@
 							"antiguedad":"4 años",
 							"escolaridad":"Licenciatura",
 							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"",
+								"correo":"mrivas@inea.gob.mx",
 							"fotografia":"Tecnologias/malu.JPG"
 						}
 					]
@@ -1733,7 +1791,7 @@
 						"antiguedad":"3 años",
 						"escolaridad":"Maestra en Contabilidad y Gestión Gubernamental, Licenciada en Contaduría y Licenciada en Derecho",
 						"jefe":"ISMAEL VEGA DELGADO",
-							"correo":"",
+							"correo":"atapia@inea.gob.mx",
 						"fotografia":"Territorial/Aide.JPG"
 			},
 			{
@@ -1744,7 +1802,7 @@
 					"antiguedad":"1 año 6 meses",
 					"escolaridad":"Ingeniería Industrial ",
 					"jefe":"ISMAEL VEGA DELGADO",
-						"correo":"",
+						"correo":"scbarradas@inea.gob.mx",
 					"fotografia":"Territorial/Silvia.JPG"
 		},
 		{
@@ -1755,7 +1813,7 @@
 				"antiguedad":"11 años 7 meses",
 				"escolaridad":"Ingeniería Industrial ",
 				"jefe":"ISMAEL VEGA DELGADO",
-					"correo":"",
+					"correo":"aehernandez@inea.gob.mx",
 				"fotografia":"Territorial/Atala.JPG"
 	}
       ]
@@ -1776,7 +1834,7 @@
 				"contrato":"Honorarios",
 				"antiguedad":"11 años 5 meses",
 				"escolaridad":"Profa. Jardín de Niños",
-					"correo":"",
+					"correo":"masuarez@inea.gob.mx",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 				"fotografia":"CD/Maye.JPG"
 			},
@@ -1838,6 +1896,7 @@
 					"antiguedad":"25 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
+					"correo":"rhernandezm@inea.gob.mx",
 					"fotografia":"Juridico/Rocio.JPG"
 				},
 				{
@@ -1848,7 +1907,7 @@
 					"antiguedad":"1 año 16 días",
 					"escolaridad":"Maestría en Derecho Procesal ",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
-						"correo":"",
+						"correo":"tapiav@inea.gob.mx",
 					"fotografia":"Juridico/Anabel.JPG"
 				},
 				{
@@ -1859,7 +1918,7 @@
 					"antiguedad":"1 año 7 meses",
 					"escolaridad":"Licenciatura en Derecho",
 					"jefe":"TANIA OLINKA MENDEZ ISLAS",
-						"correo":"",
+						"correo":"amartinezb@inea.gob.mx",
 					"fotografia":"Juridico/Alfredo.JPG"
 				}
 			]
@@ -1909,7 +1968,7 @@
 					"antiguedad":"4 años 6 meses",
 					"escolaridad":"Bachillerato",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"",
+						"correo":"chsantander@inea.gob.mx",
 					"fotografia":"Difusion/Carlos.JPG"
 				},
 				{
@@ -1931,7 +1990,7 @@
 					"antiguedad":"23 años",
 					"escolaridad":"Licenciatura",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"",
+						"correo":"dquesada@inea.gob.mx",
 					"fotografia":"Difusion/Doris.JPG"
 				},
 				{
@@ -1985,7 +2044,7 @@
 				"contrato":"Plantilla",
 				"antiguedad":"1 año 9 meses",
 				"escolaridad":"Licenciatura",
-					"correo":"",
+					"correo":"kcortresf@inea.gob.mx",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 				"fotografia":"KarinaCortes.JPG"
 			}
