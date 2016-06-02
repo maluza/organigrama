@@ -71,7 +71,7 @@
 							"escolaridad":"Licenciatura en Pedagogia",
 							"correo":"",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
-							"fotografia":""
+							"fotografia":"Indigenas/AnaCristina.JPG"
 						}
 						]
 				},
@@ -180,7 +180,7 @@
 							"escolaridad":"Bachillerato",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
 								"correo":"",
-							"fotografia":""
+							"fotografia":"Hispano/Helen.JPG"
 						},
 						{
 							"nombre":"Rafael Vélez Guzmán",
@@ -710,7 +710,7 @@
 				"escolaridad":"Licenciatura",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"ddemeneghi@inea.gob.mx",
-				"fotografia":""
+				"fotografia":"Daniel.JPG"
 			},
 			"departamentos":[
 				{
@@ -1435,7 +1435,7 @@
 					]
 				},
 				{
-					"area":"DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENENERALES",
+					"area":"DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENERALES",
 					"titular":{
 						"nombre":"WILFRIDO MENDOZA DOMINGUEZ",
 						"cargo":"Jefe de Departamento",
