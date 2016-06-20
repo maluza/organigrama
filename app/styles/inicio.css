@@ -1,3 +1,7 @@
+
+body{
+  background:#F5EEC9;
+}
 .modal-backdrop.am-fade {
   opacity: .5;
   transition: opacity .15s linear;
@@ -52,8 +56,16 @@
 	    position: relative;
 	    padding: 20px 5px 0 5px;
 	    transition: all 0.5s;
-	    -webkit-transition: all 0.5s;
-	    -moz-transition: all 0.5s;
+	    /*-webkit-transition: all 0.5s;
+	    -moz-transition: all 0.5s;*/
+      overflow: hidden;
+      text-decoration: none;
+      color: black;
+      -webkit-transition: all linear .1s;
+      -moz-transition: all linear .1s;
+      transition: all linear .1s;
+      
+
 
 	}
 	.down li{
@@ -65,7 +77,7 @@
 	    position: absolute;
 	    top: 0;
 	    right: 50%;
-	    border-top: 2px solid #800000;
+	    border-top: 3px solid orange;
 	    width: 50%;
 	    height: 20px;
 	}
@@ -76,7 +88,7 @@
 	.tree li:after{
 	    right: auto;
 	    left: 50%;
-	    border-left: 2px solid #800000;
+	    border-left: 3px solid orange;
 	}
 
 	/*We need to remove left-right connectors from elements without any siblings*/
@@ -94,7 +106,7 @@
 	}
 	/*Adding back the vertical connector to the last nodes*/
 	.tree li:last-child::before {
-	    border-right: 2px solid #800000;
+	    border-right: 3px solid orange;
 	    border-radius: 0 5px 0 0;
 	    -webkit-border-radius: 0 5px 0 0;
 	    -moz-border-radius: 0 5px 0 0;
@@ -114,7 +126,7 @@
 	    position: absolute;
 	    top: 0;
 	    left: 50%;
-	    border-left: 2px solid #800000;
+	    border-left: 3px solid orange;
 	    width: 0;
 	    height: 20px;
 	    margin-left: -1px;
@@ -125,7 +137,7 @@
 			border-left: 0;
 	}
 	.tree li a {
-	    border: 2px solid #800000;
+	    border: 3px solid orange;
 	    padding: 5px 10px;
 			width: 225px;
 			min-height: 60px;
@@ -174,24 +186,7 @@
    border-top-left-radius: 5px;
    border-top-right-radius: 5px;
  }
- /*.modal-open{
-     -webkit-transform: scale( 0.9 );
-     -moz-transform: scale( 0.9 );
-     -ms-transform: scale( 0.9 );
-     -o-transform: scale( 0.9 );
-     transform: scale( 0.9 );
-     overflow:hidden;
-     -webkit-transform-origin: 50% 50%;
-     -moz-transform-origin: 50% 50%;
-     -ms-transform-origin: 50% 50%;
-     -o-transform-origin: 50% 50%;
-     transform-origin: 50% 50%;
-     -webkit-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
-     -moz-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
-     -ms-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
-     -o-transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
-     transition: 0.3s all cubic-bezier(0.250, 0.460, 0.450, 0.940);
- }*/
+
  .modal-dialog{
      width: 50% !important;
  }
