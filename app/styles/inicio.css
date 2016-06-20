@@ -58,15 +58,13 @@ body{
 	    transition: all 0.5s;
 	    /*-webkit-transition: all 0.5s;
 	    -moz-transition: all 0.5s;*/
+/*Aregarado y se cambio el color naranja*/
       overflow: hidden;
       text-decoration: none;
       color: black;
       -webkit-transition: all linear .1s;
       -moz-transition: all linear .1s;
       transition: all linear .1s;
-      
-
-
 	}
 	.down li{
 		float: none;
