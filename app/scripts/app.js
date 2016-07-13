@@ -15,6 +15,10 @@ angular
         templateUrl: 'views/subdireccion.html',
         controller: 'SubsCtrl'
       })
+      .when('/tabla', {
+        templateUrl: 'views/tabla.html',
+        controller: 'tablaCtrl'
+      })
 
       .otherwise({
         redirectTo: '/'

@@ -69,7 +69,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"6 meses",
 							"escolaridad":"Licenciatura en Pedagogia",
-							"correo":"",
+							"correo":"acfernandez@inea.gob.mx",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
 							"fotografia":"Indigenas/AnaCristina.JPG"
 						}
@@ -179,7 +179,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"Bachillerato",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-								"correo":"",
+								"correo":"hmmelgar@inea.gob.mx",
 							"fotografia":"Hispano/Helen.JPG"
 						},
 						{
@@ -212,7 +212,7 @@
 							"antiguedad":"8 meses",
 							"escolaridad":"12 vo. semestre de Licenciatura",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-								"correo":"",
+								"correo":"jelimon@inea.gob.mx",
 							"fotografia":"Hispano/Jonathan.JPG"
 						},
 						{
@@ -223,8 +223,19 @@
 							"antiguedad":"2 años 2 meses",
 							"escolaridad":"Licenciatura Administración de Empresas",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-								"correo":"",
+								"correo":"jobonilla@inea.gob.mx",
 							"fotografia":"Hispano/Olegario.JPG"
+						},
+						{
+							"nombre":"WILFRIDO MENDOZA DOMINGUEZ",
+						"cargo":"Jefe de Departamento",
+						"actividades":"",
+						"contrato":"Base",
+						"antiguedad":"33 años",
+						"escolaridad":"Licenciatura en Educación para Adultos",
+						"jefe":"JUANA MARIA MIRANDA CUEVAS",
+							"correo":"wmendoza@inea.gob.mx",
+						"fotografia":"Materiales/willy.JPG"
 						}
 						]
 				},
@@ -746,7 +757,7 @@
 							"antiguedad":"25 años",
 							"escolaridad":"Licenciatura en Educacion",
 							"jefe":"JOSE LUIS CARMONA GUZMAN",
-								"correo":"",
+								"correo":"elvalencia@inea.gob.mx",
 							"fotografia":"SASA/Eva.JPG"
 						},
 						{
@@ -1275,7 +1286,7 @@
 							"antiguedad":"1 meses",
 							"escolaridad":"Preparatoria",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"greyesj@inea.gob.mx",
 							"fotografia":"Financieros/german.JPG"
 						},
 						{
@@ -1288,17 +1299,6 @@
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
 								"correo":"gjnava@inea.gob.mx",
 							"fotografia":"Financieros/gustavo.JPG"
-						},
-						{
-							"nombre":"Silvia Villalobos Villanueva",
-							"cargo":"Jefe de Caja",
-							"actividades":"Apicaciones de bancos del instituto y revision de la coord de orizaba",
-							"contrato":"Honorarios",
-							"antiguedad":"7 años",
-							"escolaridad":"Contador Público y Auditor",
-							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"svillalobos@inea.gob.mx",
-							"fotografia":"Financieros/silvia.JPG"
 						},
 						{
 							"nombre":"Citlali Landa Zavaleta",
@@ -1385,7 +1385,7 @@
 							"antiguedad":"13 años",
 							"escolaridad":"Contador Público y Auditor",
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"",
+								"correo":"mveronica@inea.gob.mx",
 							"fotografia":"Financieros/miriam.JPG"
 						},
 						{
@@ -1428,7 +1428,7 @@
 						  "contrato":"Base",
 						  "antiguedad":"33 años 3 meses",
 						  "escolaridad":"Pasante de Economía",
-						  "jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+						  "jefe":"GUSTAVO CASTELLANOS ROMAN",
 								"correo":"bflores@inea.gob.mx",
 						  "fotografia":"Sindicato/Betty.JPG"
 						}
@@ -1437,15 +1437,15 @@
 				{
 					"area":"DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENERALES",
 					"titular":{
-						"nombre":"WILFRIDO MENDOZA DOMINGUEZ",
-						"cargo":"Jefe de Departamento",
+						"nombre":"Joel Hernandez Vazquez",
+						"cargo":"Jefe de Oficina de Activo Fijo",
 						"actividades":"Coordinar y desarrollar actividades inherentes a las oficinas de Parque Vehicular, Activo Fijo, Adquisiciones y Servicios Generales",
-						"contrato":"Base",
-						"antiguedad":"33 años",
-						"escolaridad":"Licenciatura en Educación para Adultos",
+						"contrato":"Honorarios",
+						"antiguedad":"17 años",
+						"escolaridad":"Licenciatura Contaduria",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-							"correo":"wmendoza@inea.gob.mx",
-						"fotografia":"Materiales/willy.JPG"
+							"correo":"jhernandezv@inea.gob.mx",
+						"fotografia":"Materiales/joel.JPG"
 					},
 					"personal":[
 						{
@@ -1455,8 +1455,8 @@
 							"contrato":"Honorarios",
 							"antiguedad":"1 mes 15 días",
 							"escolaridad":"Licenciatura",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+								"correo":"cjcarcamo@inea.gob.mx",
 							"fotografia":"Materiales/jesus.JPG"
 						},
 						{
@@ -1466,20 +1466,9 @@
 							"contrato":"Base",
 							"antiguedad":"26 años",
 							"escolaridad":"Bachillerato Tecnologico",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"isantamaria@inea.gob.mx",
 							"fotografia":"Materiales/chabelita.JPG"
-						},
-						{
-							"nombre":"Joel Hernandez Vazquez",
-							"cargo":"Jefe de Oficina de Activo Fijo",
-							"actividades":"Controlar el Activo Fijo en Oficinas Centrales y 27 Coordinaciones de Zona del IVEA. Integración documental para tramite de baja de Bienes Muebles por estado inservible y/o obsoleto y someterlo al Subcomité de Adquisiciones. Emisión de listados y elaboración vales de resguardo de bienes muebles Etiquetar bienes muebles Adquiridos Conciliación en costos con el Departamento de Recursos Financieros del IVEA Conciliación en costos y cantidad de bienes con el INEA Levantar Inventarios Físicos de Bienes Muebles Recabar información de siniestros y recuperación ante la Compañía Aseguradora, utilizando las pólizas de aseguramiento.",
-							"contrato":"Honorarios",
-							"antiguedad":"17 años",
-							"escolaridad":"Licenciatura Contaduria",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"jhernandezv@inea.gob.mx",
-							"fotografia":"Materiales/joel.JPG"
 						},
 						{
 							"nombre":"José Arturo Robles Romero",
@@ -1488,7 +1477,7 @@
 							"contrato":"Base",
 							"antiguedad":"32 años",
 							"escolaridad":"Licenciatura en Administración de Empresas",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"jarobles@inea.gob.mx",
 							"fotografia":"Materiales/arturo.JPG"
 						},
@@ -1499,8 +1488,8 @@
 							"contrato":"Base",
 							"antiguedad":"19 años",
 							"escolaridad":"Preparatoria",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+								"correo":"jbfandrade@inea.gob.mx",
 							"fotografia":"Materiales/filiberto.JPG"
 						},
 						{
@@ -1510,7 +1499,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"14 años",
 							"escolaridad":"Básica",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"npulido@inea.gob.mx",
 							"fotografia":"Materiales/nicandro.JPG"
 						},
@@ -1521,8 +1510,8 @@
 							"contrato":"Base",
 							"antiguedad":"30 años",
 							"escolaridad":"Preparatoria",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+								"correo":"gcarpintero@inea.gob.mx",
 							"fotografia":"Materiales/carpi.JPG"
 						},
 						{
@@ -1532,7 +1521,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"10 años",
 							"escolaridad":"Maestria",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"smurrieta@inea.gob.mx",
 							"fotografia":"Materiales/chava.JPG"
 						},
@@ -1543,7 +1532,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"11 años",
 							"escolaridad":"Bachillerato",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"dmcerrillo@inea.gob.mx",
 							"fotografia":"Materiales/Dulce.JPG"
 						},
@@ -1554,7 +1543,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"1 año y medio",
 							"escolaridad":"Licenciatura",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"mrorrico@inea.gob.mx",
 							"fotografia":"Materiales/Roxel.JPG"
 						},
@@ -1565,20 +1554,20 @@
 						  "contrato":"Base",
 						  "antiguedad":"35 años",
 						  "escolaridad":"Carrera Inconclusa",
-						  "jefe":"WILFRIDO MENDOZA DOMINGUEZ",
+						  "jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"figueroac@inea.gob.mx",
 						  "fotografia":"Sindicato/Rebeca.JPG"
 						},
 						{
-							"nombre":"Manuel Amado Del Río Golffier",
-							"cargo":"Jefe del Almacén",
+							"nombre":"Christian Gustavo Franco Rodriguez",
+							"cargo":"Encargado de Almacen",
 							"actividades":"Control de inventarios del almacén, logística de entrega de materiales, reportes mensuales, distribución de materiales a las coordinaciones de zona y oficinas centrales.",
 							"contrato":"Honorarios",
-							"antiguedad":"4 años y medio",
-							"escolaridad":"Maestría en Ingeniería Administrativa",
-							"jefe":"WILFRIDO MENDOZA DOMINGUEZ",
-								"correo":"",
-							"fotografia":"Almacen/Amado.JPG"
+							"antiguedad":"1 año",
+							"escolaridad":"Licenciatura",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+								"correo":"cgfranco@inea.gob.mx",
+							"fotografia":"Tecnologias/christian.JPG"
 						},
 						{
 							"nombre":"Arturo Rodríguez Maury",
@@ -1587,8 +1576,8 @@
 						  "contrato":"Honorarios",
 						  "antiguedad":"4 años y medio",
 						  "escolaridad":"Maestría en Ingeniería Administrativa",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"arturor@inea.gob.mx",
 						  "fotografia":"Almacen/Maury.JPG"
 						},
 						{
@@ -1598,8 +1587,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"12 años",
 						  "escolaridad":"Preparatoria",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"jgsolano@inea.gob.mx",
 						  "fotografia":"Almacen/jose.JPG"
 						},
 						{
@@ -1609,8 +1598,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"2 años",
 						  "escolaridad":"Maestría en Ingeniería Administrativa",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"carios@inea.gob.mx",
 						  "fotografia":"Almacen/Carlos.JPG"
 						},
 						{
@@ -1620,8 +1609,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"26 años y medio",
 						  "escolaridad":"¨Preparatoria",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"maeusebio@inea.gob.mx",
 						  "fotografia":"Almacen/Miguel.JPG"
 						},
 						{
@@ -1631,8 +1620,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"4 años",
 						  "escolaridad":"Bachillerato",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"edvelasquez@inea.gob.mx",
 						  "fotografia":"Almacen/Eric.JPG"
 						},
 						{
@@ -1642,8 +1631,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"31 años",
 						  "escolaridad":"Secundaria",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"idiaz@inea.gob.mx",
 						  "fotografia":"Almacen/Ismael.JPG"
 						},
 						{
@@ -1653,8 +1642,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"34 años",
 						  "escolaridad":"Secundaria",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"lherrera@inea.gob.mx",
 						  "fotografia":"Almacen/Luis.JPG"
 						},
 						{
@@ -1664,8 +1653,8 @@
 						  "contrato":"Base",
 						  "antiguedad":"25 años",
 						  "escolaridad":"Licenciatura Trunca",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"dalba@inea.gob.mx",
 						  "fotografia":"Almacen/Daniel.JPG"
 						},
 						{
@@ -1675,8 +1664,8 @@
 						  "contrato":"Honorarios",
 						  "antiguedad":"6 años",
 						  "escolaridad":"Preparatoria",
-						  "jefe":"MANUEL AMADO DEL RÍO GOLFFIER",
-								"correo":"",
+						  "jefe":"CHRISTIAN GUSTAVO FRANCO RODRIGUEZ",
+								"correo":"eemartinez@inea.gob.mx",
 						  "fotografia":"Almacen/Edgar.JPG"
 						}
 					]
@@ -1706,17 +1695,7 @@
 								"correo":"cencarnacion@inea.gob.mx",
 							"fotografia":"Tecnologias/cesar.JPG"
 						},
-						{
-							"nombre":"Christian Gustavo Franco Rodriguez",
-							"cargo":"Jefe de oficina",
-							"actividades":"Administración de Vídeo Camaras de vigilancia y reloj checador, Desarrollo de Sistemas",
-							"contrato":"Honorarios",
-							"antiguedad":"1 año",
-							"escolaridad":"Licenciatura",
-							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"cgfranco@inea.gob.mx",
-							"fotografia":"Tecnologias/christian.JPG"
-						},
+
 						{
 							"nombre":"Reyna Alejandra Ortega Hernandez",
 							"cargo":"Especialista en Proyectos Técnicos",
@@ -1847,7 +1826,7 @@
 					"antiguedad":"25 años",
 					"escolaridad":"Preparatoria y carrera técnica contabilidad fiscal",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
-						"correo":"",
+						"correo":"gabrielam@inea.gob.mx",
 					"fotografia":"CD/Gaby.JPG"
 				},
 				{
@@ -1858,7 +1837,19 @@
 					"antiguedad":"22 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
+					"correo":"jaortega@inea.gob.mx",
 					"fotografia":"CD/Juanito.JPG"
+				},
+				{
+					"nombre":"Silvia Villalobos Villanueva",
+					"cargo":"Jefe",
+					"actividades":"",
+					"contrato":"Honorarios",
+					"antiguedad":"7 años",
+					"escolaridad":"Contador Público y Auditor",
+					"jefe":"MARIA AIDE SUAREZ VILLA",
+						"correo":"svillalobos@inea.gob.mx",
+					"fotografia":"Financieros/silvia.JPG"
 				},
 				{
 					"nombre":"Hugo Arturo González Hernández",
@@ -1868,7 +1859,7 @@
 					"antiguedad":"35 años",
 					"escolaridad":"Preparatoria",
 					"jefe":"MARIA AIDE SUAREZ VILLA",
-						"correo":"",
+						"correo":"hagonzalez@inea.gob.mx",
 					"fotografia":"CD/Arturo.JPG"
 				}
 			]
@@ -1957,7 +1948,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura en Derecho",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"",
+						"correo":"rmcruz@inea.gob.mx",
 					"fotografia":"Difusion/Rosario.JPG"
 				},
 				{
@@ -1979,7 +1970,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"",
+						"correo":"jagomez@inea.gob.mx",
 					"fotografia":"Difusion/Jorge.JPG"
 				},
 				{
@@ -2001,7 +1992,7 @@
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura en Ciencias de la Educación",
 					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"",
+						"correo":"iiramirez@inea.gob.mx",
 					"fotografia":"Difusion/Iris.JPG"
 				}
 			]
