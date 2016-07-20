@@ -5,7 +5,7 @@
 		"nombre":"LOTH MELCHISEDEC SEGURA JUAREZ",
 		"cargo":"DIRECTOR GENERAL",
 		"activodades":"Actividades",
-		"correo":"",
+		"correo":"isegura@inea.gob.mx",
 		"fotografia":""
 	},
 
@@ -262,9 +262,9 @@
 				"nombre":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
 				"cargo":"SUBDIRECTOR",
 				"actividades":"",
-				"contrato":"",
+				"contrato":"Plantilla",
 				"antiguedad":"",
-				"escolaridad":"",
+				"escolaridad":"Licenciatura en Derecho",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"nrrodriguez@inea.gob.mx",
 				"fotografia":"scso/Nemesio.JPG"
@@ -343,28 +343,17 @@
 				{
 					"area":"DEPARTAMENTO DE PLAZAS COMUNITARIAS",
 					"titular":{
-						"nombre":"KARLA IVETTE PEREZ ABURTO",
+						"nombre":"MIGUEL ANGEL CAICERO GARCIA",
 						"cargo":"Jefe de Departamento",
 						"actividades":"Planear, coordinar, organizar, instrumentar, seguir y evaluar el Proyecto Plazas Comunitarias en la entidad",
 						"contrato":"Honorarios",
-						"antiguedad":"10 años 6 meses",
-						"escolaridad":"Licenciatura",
+						"antiguedad":"MAYO 2016",
+						"escolaridad":"Ing. Industrial",
 						"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
-							"correo":"kiperez@inea.gob.mx",
-						"fotografia":"scso/karla.JPG"
+							"correo":"",
+						"fotografia":""
 					},
 					"personal":[
-						{
-							"nombre":"Ana Celia Hernández García",
-							"cargo":"Auxiliar Administrativo",
-							"actividades":"Revisión de alta y bajas figuras plazas comunitarias, seguimiento en SASA, validación y realización de la nómina de figuras adscritas al proyecto, seguimiento al SIBIPLAC, atención a peticiones de oficios girados por las zonas",
-							"contrato":"Honorarios",
-							"antiguedad":"8 años 1 mes",
-							"escolaridad":"Licenciatura en pedagogía",
-							"jefe":"KARLA IVETTE PEREZ ABURTO",
-								"correo":"achernandez@inea.gob.mx",
-							"fotografia":"scso/ana.JPG"
-						},
 						{
 							"nombre":"Roxana Lagunes Gongora",
 							"cargo":"Auxiliar Administrativo",
@@ -372,7 +361,7 @@
 							"contrato":"Honorarios",
 							"antiguedad":"1 año 8 meses",
 							"escolaridad":"Técnico Bachiller",
-							"jefe":"KARLA IVETTE PEREZ ABURTO",
+							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"rlagunes@inea.gob.mx",
 							"fotografia":"scso/roxana.JPG"
 						},
@@ -383,7 +372,7 @@
 							"contrato":"Base",
 							"antiguedad":"4 años 6 meses",
 							"escolaridad":"Licenciatura en Educación Media con Especialidad en Matemáticas",
-							"jefe":"KARLA IVETTE PEREZ ABURTO",
+							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"jhernandez@inea.gob.mx",
 							"fotografia":"scso/josefina.JPG"
 						},
@@ -394,7 +383,7 @@
 							"contrato":"Plantilla",
 							"antiguedad":"33 años",
 							"escolaridad":"Licenciatura Pedagogia",
-							"jefe":"KARLA IVETTE PEREZ ABURTO",
+							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"jrrodriguez@inea.gob.mx",
 							"fotografia":"scso/roberto.JPG"
 						}
@@ -425,7 +414,7 @@
 				"actividades":"Desarrollar, establecer, supervisar y controlar las acciones y lineamientos para la planeación, programación y presupuestación de los servicios educativos del IVEA a corto, mediano y largo plazo conforme a las normas establecidas a nivel nacional y estatal.",
 				"contrato":"Plantilla",
 				"antiguedad":"5 años",
-				"escolaridad":"Maestría en Economía y Negocios, e Ingeniería Mecánica Eléctrica",
+				"escolaridad":"Maestría en Economía y Negocios e Ingeniería Mecánica Eléctrica",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"jolvera@inea.gob.mx",
 				"fotografia":"SPPP/JuanCarlos.JPG"
@@ -469,9 +458,9 @@
 						"actividades":"Presupuestar las Metas y Acciones establecidas para el Instituto, Llevar el seguimiento del ejercicio del Presupuesto, Llevar el seguimiento a las Figuras de Gratificación fija autorizadas, Analizar y liberar en su caso las Gratificación de Figuras Solidarias y Asesores de manera mensual, Realizar y enviar los Reportes Programáticos Presupuestales a INEA, Llevar seguimiento al Convenio de Atención a la Demanda con cargo al Ramo 11 y las demás que establezca el Subdirector o el Director General del Instituto",
 						"contrato":"Plantilla",
 						"antiguedad":"11 años 4 meses",
-						"escolaridad":"Licenciatura",
+						"escolaridad":"Licenciatura en Contaduria",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
-							"correo":"",
+							"correo":"ijuarez@ivea.edu.mx",
 						"fotografia":"Presupuestacion/Isaac.JPG"
 					},
 					"personal":[
@@ -718,7 +707,7 @@
 				"actividades":"Coordinar las acciones en los distintos departamentos de la Subdirección, para el cumplimiento de los procesos específicos que se desarrollan.",
 				"contrato":"Plantilla",
 				"antiguedad":"2 meses",
-				"escolaridad":"Licenciatura",
+				"escolaridad":"Licenciatura en Educación Primaria",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"ddemeneghi@inea.gob.mx",
 				"fotografia":"Daniel.JPG"
@@ -732,7 +721,7 @@
 						"actividades":"Responsable de los sistemas de control educativo (SASA, SAEL, SIGA, SAAE) y nominas a figuras solidarias por TELECOMM",
 						"contrato":"Plantilla",
 						"antiguedad":"16 años",
-						"escolaridad":"Maestria",
+						"escolaridad":"Licenciatura en Informática y Maestria en Administración Publica",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
 							"correo":"",
 						"fotografia":"SASA/JoseLuis.JPG"
@@ -803,7 +792,7 @@
 						"actividades":"Coordinar y dar seguimiento a todos los procesos relacionados a la emisión de certificados, atención a público tanto telefónica como de manera personal, validación de certificados, seguimiento y control de formatos de certificados y constancias de alfabetización, seguimiento a la entrega de certificados a las coordinaciones de zona, comunicación directa con oficinas de INEA y las coordinaciones de zona para atender la necesidades en materia de certificación, así como apoyar en actividades extraordinarias a la subdirección de acreditación y sistemas de control educativo.",
 						"contrato":"Honorarios",
 						"antiguedad":"11 años",
-						"escolaridad":"Licenciatura Antropologia y Maestría en Administración Pública",
+						"escolaridad":"Pasante en Licenciatura Antropologia y Maestría en Administración Pública",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
 							"correo":"gtotomol@inea.gob.mx",
 						"fotografia":"Certificacion/Griselda.JPG"
@@ -1033,7 +1022,7 @@
 						"actividades":"Responsable de la Aplicación y Operación de la Normatividad establecida para los procesos de inscripción y acreditación de Educación Básica para Adultos, Responsable del Material de Acreditación Estatal que incluye Administración y Control de Exámenes Finales, Diagnósticos e Indígena asi como Formatería, Elaborar la demanda de exámenes  y formatería que mes con mes se entrega a las Coordinaciones de Zona para el proceso de acreditación, Responsable del proceso de Baja de Exámenes utilizados y no utilizados ante la Dirección de Acreditación y Sistemas de INEA, Responsable del Banco Estatal de Sedes de Aplicación de Exámenes (altas, bajas y evaluación de su productividad), Asesoría en la operación del Sistema SASA y SASA Indígena a usuarios del área de Acreditación, Atención a Casos Especiales de educandos que presentan inconsistencias en su registro de SASA, Seguimiento al PreRegistro de adultos en el portal de INEA, realizar Capacitación a figuras de nuevo ingreso de las áreas de Acreditación.",
 						"contrato":"Plantilla",
 						"antiguedad":"15 años",
-						"escolaridad":"Maestria en Administración Pública",
+						"escolaridad":"Pasante en Licenciatura en Informática y Maestria en Administración Pública",
 						"jefe":"DANIEL DEMENEGHI GAMBOA",
 							"correo":"aolivier@inea.gob.mx",
 						"fotografia":"Acreditacion/Alma.JPG"
@@ -1110,7 +1099,7 @@
 				"actividades":"Diseñar establecer difundir y vigilar el cumplimiento de criterios y procedimientos que rijan los sistemas de recursos humanos, financieros y materiales así como ministrar los recursos financieros y patrimoniales destinados a la operación de los programas y servicios institucionales de conformidad con las disposiciones legales vigentes y las instrucciones del director general.",
 				"contrato":"Plantilla",
 				"antiguedad":"2 meses",
-				"escolaridad":"Contador Público",
+				"escolaridad":"Licenciatura en Contadur Publica",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"hdcontreras@inea.gob.mx",
 				"fotografia":"Financieros/hector.JPG"
@@ -1124,9 +1113,9 @@
 						"actividades":"Desarrollar y administrar políticas, programas y procedimientos para proveer una estructura administrativa eficiente.",
 						"contrato":"Plantilla",
 						"antiguedad":"1 mes",
-						"escolaridad":"Licenciatura",
+						"escolaridad":"Licenciatura en Contaduria",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
-							"correo":"",
+							"correo":"recursoshumanos@ivea.edu.mx",
 						"fotografia":"Humanos/miguelAngel.JPG"
 					},
 					"personal":[
@@ -1239,7 +1228,7 @@
 						"actividades":"El Titular de este puesto es responsable de organizar y coordinar el desarrollo de las actividades encaminadas a la operación financiera y vigilar que se cumpla con las disposiciones vigentes emitidas por las diferentes instancias en lo relativo a la administración de recursos",
 						"contrato":"Plantilla",
 						"antiguedad":"1 mes",
-						"escolaridad":"Contador Público y Auditor",
+						"escolaridad":"Licenciatura en Contaduria Pública y Auditoría",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
 							"correo":"gcastellanos@inea.gob.mx",
 						"fotografia":"Financieros/cpgustavo.JPG"
@@ -1442,7 +1431,7 @@
 						"actividades":"Coordinar y desarrollar actividades inherentes a las oficinas de Parque Vehicular, Activo Fijo, Adquisiciones y Servicios Generales",
 						"contrato":"Honorarios",
 						"antiguedad":"17 años",
-						"escolaridad":"Licenciatura Contaduria",
+						"escolaridad":"Pasante en Licenciatura Contaduria",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
 							"correo":"jhernandezv@inea.gob.mx",
 						"fotografia":"Materiales/joel.JPG"
@@ -1557,9 +1546,13 @@
 						  "jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"figueroac@inea.gob.mx",
 						  "fotografia":"Sindicato/Rebeca.JPG"
-						},
-						{
-							"nombre":"Christian Gustavo Franco Rodriguez",
+						}
+					]
+				},
+				{
+					"area":"ALMACEN ESTATAL",
+					"titular":{
+						"nombre":"Christian Gustavo Franco Rodriguez",
 							"cargo":"Encargado de Almacen",
 							"actividades":"Control de inventarios del almacén, logística de entrega de materiales, reportes mensuales, distribución de materiales a las coordinaciones de zona y oficinas centrales.",
 							"contrato":"Honorarios",
@@ -1568,7 +1561,8 @@
 							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 								"correo":"cgfranco@inea.gob.mx",
 							"fotografia":"Tecnologias/christian.JPG"
-						},
+					},
+					"personal":[
 						{
 							"nombre":"Arturo Rodríguez Maury",
 						  "cargo":"Encargado de Material Didáctico",
@@ -1678,7 +1672,7 @@
 						"actividades":"Administración de líneas telefonicas, Administración de Licencias",
 						"contrato":"Plantilla",
 						"antiguedad":"10 años",
-						"escolaridad":"Licenciatura",
+						"escolaridad":"Licenciatura en Economía",
 						"jefe":"HECTOR DAVID CONTRERAS SANTOS",
 							"correo":"htenorio@inea.gob.mx",
 						"fotografia":"Tecnologias/hernan.JPG"
@@ -1761,7 +1755,11 @@
 					"correo":"ivega@inea.gob.mx",
 				"fotografia":"Territorial/Ismael.JPG"
 			},
-      "personal":[
+			"departamentos":[
+	{
+		"area":"PERSONAL SUBDIRECCIÓN",
+
+	"personal":[
 				{
 						"nombre":"Aidé Tapia Landa",
 						"cargo":"Analista",
@@ -1796,6 +1794,12 @@
 				"fotografia":"Territorial/Atala.JPG"
 	}
       ]
+	},
+	{
+		"area":"COORDINACIONES DE ZONA -- EN CONSTRUCCION--"
+
+	}
+]
 		},
 		{
 			"area":"UNIDADES ",
@@ -1873,7 +1877,7 @@
 				"actividades":"Procesos legales, asesoría a las demás áreas del instituto y todo lo relacionado con acciones jurídicas.",
 				"contrato":"Honorarios",
 				"antiguedad":"2 meses",
-				"escolaridad":"Maestria",
+				"escolaridad":"Licenciatura en Derecho",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"tomendez@inea.gob.mx",
 				"fotografia":"Juridico/Tania.JPG"
@@ -1923,7 +1927,7 @@
 				"actividades":"Diseñar y elaborar mecanismos para la difusión de los servicios que presta el instituto que permitan hacer del conocimiento de los veracruzanos los programas institucionales que se manejan que combaten el rezago educativo.",
 				"contrato":"Honorarios",
 				"antiguedad":"2 meses",
-				"escolaridad":"Licenciatura",
+				"escolaridad":"Licenciatura en Ciencias y Técnicas de la Comunicación",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"adacosta@inea.gob.mx",
 				"fotografia":"Difusion/Alma.JPG"
@@ -2001,29 +2005,16 @@
 			"area":"UNIDAD DE GENERO",
 			"id":"UG",
 			"titular":{
-				"nombre":"",
-				"cargo":"JEFA DE UNIDAD",
-				"actividades":"",
-				"contrato":"",
-				"antiguedad":"",
-				"escolaridad":"",
+				"nombre":"Karina Lizeth Cedeño Muñoz",
+				"cargo":"Auxiliar Administrativo",
+				"actividades":"Diseñar y coordinar las actividades a realizar en las coordinaciones de zona y subdirecciones de la Dirección General del Instituto para implementar la perspectiva de Género, recabar las evidencias de dichas actividades, generar reportes e informes para las diferentes dependencias que lo requieren, SEV, IVM, Contraloría, entre las diferentes actividades de oficina de rutina, elaborar oficios, llevar agenda, atender llamadas, actividades de archivo, asistir a conferencias, platicas y reuniones a las que sea convocada la Unidad de Género.",
+				"contrato":"Honorarios",
+				"antiguedad":"1 año 9 meses",
+				"escolaridad":"Preparatoria",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-					"correo":"",
-				"fotografia":""
-			},
-			"personal":[
-				{
-					"nombre":"Karina Lizeth Cedeño Muñoz",
-					"cargo":"Auxiliar Administrativo",
-					"actividades":"Diseñar y coordinar las actividades a realizar en las coordinaciones de zona y subdirecciones de la Dirección General del Instituto para implementar la perspectiva de Género, recabar las evidencias de dichas actividades, generar reportes e informes para las diferentes dependencias que lo requieren, SEV, IVM, Contraloría, entre las diferentes actividades de oficina de rutina, elaborar oficios, llevar agenda, atender llamadas, actividades de archivo, asistir a conferencias, platicas y reuniones a las que sea convocada la Unidad de Género.",
-					"contrato":"Honorarios",
-					"antiguedad":"1 año 9 meses",
-					"escolaridad":"Preparatoria",
-					"jefe":"",
-					"correo":"klcedeno@inea.gob.mx",
-					"fotografia":"Karina.JPG"
-				}
-			]
+				"correo":"klcedeno@inea.gob.mx",
+				"fotografia":"Karina.JPG"
+			}
 		},
 		{
 			"area":"UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA",
