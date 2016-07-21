@@ -4,7 +4,7 @@
 	"titular":{
 		"nombre":"LOTH MELCHISEDEC SEGURA JUAREZ",
 		"cargo":"DIRECTOR GENERAL",
-		"activodades":"Actividades",
+		"actividades":"Actividades",
 		"correo":"isegura@inea.gob.mx",
 		"fotografia":""
 	},
@@ -18,8 +18,8 @@
 				"cargo":"SUBDIRECTORA",
 				"actividades":"Coordinar y atender todas las actividades inherentes a la subdirección de servicios educativos",
 				"contrato":"Honorarios",
-				"antiguedad":"14 años",
-				"escolaridad":"Licenciatura en Educación",
+				"antiguedad":"Desde 3 de Septiembre 2003",
+				"escolaridad":"Licenciatura en Pedadogía",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 				"correo":"jmmiranda@inea.gob.mx",
 				"fotografia":"Hispano/Juanita.JPG"
@@ -33,8 +33,8 @@
 						"cargo":"Jefe de Departamento",
 						"actividades":"Academicas y Operativas",
 						"contrato":"Honorarios",
-						"antiguedad":"13 años",
-						"escolaridad":"Licenciatura",
+						"antiguedad":"Desde 1 de Mayo 2003",
+						"escolaridad":"Pasante de Biología",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
 						"correo":"mdelacruz@inea.gob.mx",
 						"fotografia":"Indigenas/Mago.JPG"
@@ -45,7 +45,7 @@
 							"cargo":"Jefe de Oficina",
 							"actividades":"actividades Academicas",
 							"contrato":"Base",
-							"antiguedad":"22 años",
+							"antiguedad":"Desde 1 de Diciembre 1995",
 							"escolaridad":"Licenciatura",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
 							"correo":"arodriguezc@inea.gob.mx",
@@ -56,7 +56,7 @@
 							"cargo":"Auxiliar Académico",
 							"actividades":"Seguimiento a coordinaciones de zona con población indígena, actividades propias del departamento y de la subdirección de servicios educativos, elaboración de nóminas de los enlaces regionales bilingües y educativos, etc.",
 							"contrato":"Honorarios",
-							"antiguedad":"8 años 8 meses",
+							"antiguedad":"Desde 19 de Septiembre 2007",
 							"escolaridad":"Licenciatura",
 							"jefe":"MARGARITA DE LA CRUZ HERNÁNDEZ",
 								"correo":"jsmarceliano@inea.gob.mx",
@@ -82,8 +82,8 @@
 						"cargo":"Jefe de Departamento",
 						"actividades":"Planear, organizar, coordinar y ejecutar acciones de formación para figuras solidarias  y figuras institucionales para propiciar el mejoramiento de los servicios, además diseñar,elaborar, implementar, evaluar y mantener actualizados los programas, materiales de los procesos de formación conforme a la normatividad vigente.",
 						"contrato":"Honorarios",
-						"antiguedad":"1 año 8 meses",
-						"escolaridad":"Ingeniero Agrónomo zootecnista",
+						"antiguedad":"Desde 5 de Septiembre 2014",
+						"escolaridad":"Licenciada en Pedagogia",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
 							"correo":"cmabdala@inea.gob.mx",
 						"fotografia":"Formacion/Carla.JPG"
@@ -94,8 +94,8 @@
 							"cargo":"Especialista en Proyectos Técnicos",
 							"actividades":"Tutoría de ose de coordinaciones de zona (6), recepción, revisión y entrega de vinculaciones a las áreas, elaboración de oficios, elaboración de materiales para cursos de formación, capacitadora en eventos de formación especializada en el eje de lengua y comunicación, impartición de cursos de competencias laborares, seguimiento a la incorporación de figuras educativas (particularmente asesores educativos, formadores especializados y organizadores de servicios educativos), seguimiento a la formación con base al esquema de formación de las figuras educativas en coordinación de zona, integrar y resguardar expedientes de figuras educativas, tramites de recursos para apoyos de traslados y por concepto de formación de figuras, análisis y control de información al respecto de formaciones en coordinación de zona a través del sistema raf, entre otras actividades inherentes al área.",
 							"contrato":"Base",
-							"antiguedad":"4 años",
-							"escolaridad":"Licenciatura",
+							"antiguedad":"Desde 5 de Septiembre de 2012",
+							"escolaridad":"Pasante en Licenciatura de Ciencias de la Comunicación",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"salarcon@inea.gob.mx",
 							"fotografia":"Formacion/Samantha.JPG"
@@ -105,7 +105,7 @@
 							"cargo":"Analista Administrativo",
 							"actividades":"Impartir formación especializada en el modelo indígena bilingüe y demás formaciones que formen parte del esquema del programa anual estatal de formación (PAEF); impartir cursos de certificación de competencias laborales (conocer ec0217); tutoría de organizadores de servicios educativos (oses) en 6 coordinaciones de zona; control y tramite de vinculaciones y re vinculaciones de asesores educativos; tramites de recursos para apoyo a traslados y por concepto de formación de figuras; apoyo logístico en eventos de formación; captura, control y análisis de los eventos capturados en el registro automatizado de formación (RAF); altas de figuras en el SASA; apoyo en la entrega del programa anual estatal de formación y programa operativo anual de la subdirección; elaboración de oficios; integrar y resguardar expedientes de organizadores de servicios educativos y formadores especializados propuestos por las coordinaciones de zona; las demás inherentes a las actividades del área de adscripción.",
 							"contrato":"Base",
-							"antiguedad":"14 años",
+							"antiguedad":"Desde 1 de Junio de 2007",
 							"escolaridad":"Licenciatura en Contabilidad",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"rlopezv@inea.gob.mx",
@@ -116,7 +116,7 @@
 							"cargo":"Auxiliar Administrativo",
 							"actividades":"Dar tutoría con labores administrativas acuñadas a este departamento, a los Organizadores de Servicios Educativos y de los Formadores Especializados de Lengua y Comunicación, Matemáticas e Indígena Bilingüe de las Coordinaciones de Zona Tantoyuca, Chicontepec, Tuxpan, Poza Rica y Panuco. Recibir, elaborar y dar seguimiento a oficios para el trámite y control de las vinculaciones de incorporación de Asesores y Orientadores Educativos. Revisar y examinar los formatos de vinculacion de figuras solidarias con el Patronato de Fomento Educativo del Estado de Veracruz, enviadas por las Coordinaciones de Zona de Tantoyuca, Chicontepec, Tuxpan, Poza Rica y Panuco. Capturar la información referida en los formatos de vinculacion por cada Coordinación de Zona en una hoja de cálculo, para el control de las figuras incorporadas por mes, Subproyecto y tipo de vinculación.",
 							"contrato":"Honorarios",
-							"antiguedad":"3 años 5 meses",
+							"antiguedad":"Desde 16 de Junio 2012",
 							"escolaridad":"Licenciatura en Sistemas Computacionales Administrativos y Maestria en Administracion de Recursos Humanos",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"msbolanos@inea.gob.mx",
@@ -127,7 +127,7 @@
 							"cargo":"Jefe de Oficina",
 							"actividades":"Recepción de información de las Coordinaciones de zona que es enviada por el OSE o Coordinador de zona. Oficios (correspondencia en general y provenientes también de Oficinas centratrales, Dirección General, Subdirecciones y otros) Base de cursos capturados en RAF por mes Informes de actividades y Plan de trabajo de OSES y Formadores especializa dos por mes.  Vinculaciones, revinculaciones, bajas y altas de figuras (AF, AE, OSE, FE).  Agendas de formación.  Notificación de contraseña, etc. Elaboración y seguimiento Oficios (correspondencia en general, oficios de vinculaciones de AE, altas de figuras, oficios de apoyos por formación y tramites varios) Concentrado y análisis de bases de AE, informes de Coordinaciones de zona, e información generada por el Departamento de formación y desarrollo educativo. Participación Videoconferencias para OSES Cursos de formación, etc. Captura de eventos de formación en el Registro automatizado de formación, manejo general del sistema. Revisión del historial de formación de las figuras educativas (HH y IB) por Coordinación de zona e informarles a estas resumen de quienes requieren formación inicial y continua de acuerdo al Registro automatizado de formación (RAF) Integración de los archivos documentales del Departamento de formación y desarrollo educativo. Apoyar al Organizador(a) de servicios educativos en caso de ser necesario manteniendo constante comunicación y coordinarse, proporcionar orientación. Validación de la documentación e información proporcionada por las Coordinaciones de zona Colaboración en la organización y logística de eventos de formación realizados por el Departamento de formación y desarrollo educativo. Actividades que por necesidades de la Subdirección de servicios educativos o el Instituto me han sido encomendadas Otras además de las inherentes al puesto.",
 							"contrato":"Base",
-							"antiguedad":"35 años",
+							"antiguedad":"Desde 1 de Noviembre 1981",
 							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"jrchimal@inea.gob.mx",
@@ -138,7 +138,7 @@
 							"cargo":"Técnico Superior",
 							"actividades":"Elaboración de material de apoyo a las diversas Formaciones (Agendas de trabajo, Diapositivas, material de reforzamiento a contenidos, Evaluaciones diagnósticas, formativas y finales, etc.)  Diseño y elaboración de Planeaciones Didácticas, respecto a los diferentes tipos de Formación. (Inducción, Inicial y Continua)  Impartición de diferentes Eventos Formativos en su modalidad presencial, entre ellos: Cursos, Talleres, Seminarios y Curso-talleres, entre otros, al personal Institucional y Solidario del IVEA.  Manejo de diferentes estrategias (Técnicas Institucionales y Grupales) para un mejor y mayor rendimiento de los participantes en los eventos formativos.  Actualización y ajuste de eventos formativos de acuerdo a las características de los participantes.  Apoyo logístico en diversos eventos formativos organizados por la Subdirección de Servicios Educativos.  Apoyo en la elaboración del Programa Anual de Formación.  Sistematización y captura de eventos formativos en el Registro Automatizado de Formación (RAF) Seguimiento y apoyo a los procesos formativos en Coordinaciones de Zona.  Tutoría, Seguimiento y apoyo a las actividades de Organizadores de Servicios Educativos y Formadores Especializados de Coordinaciones de Zona.  Recepción, revisión y captura de la información enviada por las Coordinaciones de Zona: Veracruz, Boca del Río, Tierra Blanca, Cosamaloapan, Lerdo de Tejada y San Andrés Tuxtla.  Elaboración de Bases por Coordinación de Zona respecto a la Formación de figuras Institucionales y Solidarias, además de la base de Incorporación y Reincorporación de Asesores Solidarios. Visitas de apoyo a Educandos y Asesores de los Círculos de Estudio del IVEA en Coordinaciones de Zona.  Trámite de las Vinculaciones enviadas por las Coordinaciones de Zona del Personal Solidario de nuevo ingreso (Asesores, Formadores Especializados y Organizadores de Servicios Educativos) ante Planeación y Patronato de Fomento Educativo del Estado de Veracruz A.C.  Y, las demás actividades inherentes al puesto, y necesidades del Departamento y de la S.S.E",
 							"contrato":"Base",
-							"antiguedad":"34 años 7 meses",
+							"antiguedad":"Desde 1 de Noviembre 1981",
 							"escolaridad":"Licenciatura en Pedagogia con Especialidad en Formador de Formadores",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"mintriago@inea.gob.mx",
@@ -149,7 +149,7 @@
 							"cargo":"Especialista en Proyectos Técnicos",
 							"actividades":"Programación, logística, ejecución, monitoreo y seguimiento de la formación de las figuras educativas a nivel estatal, para mejorar la calidad de la educación. Apoyo en la planeación de metas y su desarrollo. Impartir formación, así como dar seguimiento en el eje de Matemáticas, propuestas y desarrollo de materiales dentro del mismo eje. Entre otras actividades administrativas",
 							"contrato":"Base",
-							"antiguedad":"3 años",
+							"antiguedad":"Desde 2 de Mayo 2013",
 							"escolaridad":"Licenciatura Incompleta",
 							"jefe":"CARLA MARIA ABDALA ZAMUDIO",
 								"correo":"aivilla@inea.gob.mx",
@@ -187,7 +187,7 @@
 							"cargo":"Jefe de Oficina",
 							"actividades":"Seguimiento del proceso de autorización de Enlaces Regionales de Atención y Seguimiento Educativo (ERASE) y Enlaces Educativos (EE) de las Coordinaciones de Zona: Orizaba, Córdoba, Zongolica, Veracruz, Boca del Río, Tierra Blanca, Cosamaloapan, San Andrés Tuxtla. Seguimiento de las bajas de Enlaces Regionales de Atención y Seguimiento Educativo (ERASE) y Enlaces Educativos (EE) por Coordinación de Zona. Nómina mensual TELECOMM. Visitas de supervisión a Círculos de Estudio en Coordinaciones de Zona. Participación en la elaboración de instrumentos de aplicación para visitas de seguimiento, registro y evaluación a Círculos de Estudio.  Seguimiento cuantitativo y sistematización de logros con la alianza del Programa de Jornaleros Migrantes, a través de la emisión mensual de los reportes del Sistema Automatizado SASA. Elaborar informes varios. Cuando se requiere ocasionalmente, actualizar algunos programas y/o proyectos del Manual de Procedimiento del Departamento de Educación Hispanohablante. Actualización y elaboración de apoyos didácticos para reforzar los módulos con mayor índice de reprobación.  Otras actividades.",
 							"contrato":"Base",
-							"antiguedad":"28 años 8 meses",
+							"antiguedad":"Desde 16 de Octubre 1988",
 							"escolaridad":"Licenciatura en Antropologia",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
 								"correo":"rvelez@inea.gob.mx",
@@ -198,29 +198,19 @@
 							"cargo":"Técnico Superior",
 							"actividades":"Seguimiento académico de las figuras solidarias: Enlaces Educativos y Enlaces Regionales Hispanohablantes, pertenecientes a 7 Coordinaciones de Zona. Seguimiento académico del Programa Regular y los Subproyectos Ceresos e Inclusión de Personas con Discapacidad (IPD) y Programa Primaria MEVyT en Braille. Visita a Círculo de Estudios para su seguimiento académico. Trabajos pedagógicos. Trabajos especiales.  Actividades cotidianas.",
 							"contrato":"Base",
-							"antiguedad":"25 años",
-							"escolaridad":"Licenciatura",
+							"antiguedad":"Desde 16 de Julio 1983",
+							"escolaridad":"Licenciatura en Pedagogia",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
 								"correo":"mzayas@inea.gob.mx",
 							"fotografia":"Hispano/Carmen.JPG"
 						},
-						{
-							"nombre":"Jonathan Emanuel Limon Coello",
-							"cargo":"Auxiliar Administrativo",
-							"actividades":"Seguimiento del proceso de autorización de enlaces regionales de atención y seguimiento educativo (erase) y enlaces educativos (EE) de las coordinaciones de zona: espinal, Martínez de la Torre, perote, Xalapa, Coatepec y Huatusco. Seguimiento de las bajas de enlaces regionales de atención y seguimiento educativo (erase) y enlaces educativos (EE) por coordinación de zona. Nómina mensual TELECOMM. Visitas de supervisión a círculos de estudio en coordinaciones de zona. Monitoreo y envío de solicitud de incidencias en MEVYT en línea de todas las cz. Seguimiento de educandos en atención de CONAFE. Emisión de reportes externos del SASA para distribución y formato.",
-							"contrato":"Honorarios",
-							"antiguedad":"8 meses",
-							"escolaridad":"12 vo. semestre de Licenciatura",
-							"jefe":"JUANA MARIA MIRANDA CUEVAS",
-								"correo":"jelimon@inea.gob.mx",
-							"fotografia":"Hispano/Jonathan.JPG"
-						},
+
 						{
 							"nombre":"José Olegario Bonilla García",
 							"cargo":"Técnico Medio",
 							"actividades":"Seguimiento de programas y proyectos y seguimiento a los procesos de validación, dictaminación de enlaces regionales y enlaces educativos hispanohablantes.",
 							"contrato":"Base",
-							"antiguedad":"2 años 2 meses",
+							"antiguedad":"Desde 15 de Abril 2015",
 							"escolaridad":"Licenciatura Administración de Empresas",
 							"jefe":"JUANA MARIA MIRANDA CUEVAS",
 								"correo":"jobonilla@inea.gob.mx",
@@ -231,7 +221,7 @@
 						"cargo":"Jefe de Departamento",
 						"actividades":"",
 						"contrato":"Base",
-						"antiguedad":"33 años",
+						"antiguedad":"Desde 1 de Mayo 1982",
 						"escolaridad":"Licenciatura en Educación para Adultos",
 						"jefe":"JUANA MARIA MIRANDA CUEVAS",
 							"correo":"wmendoza@inea.gob.mx",
@@ -240,13 +230,13 @@
 						]
 				},
 				{
-					"area":"SUBDIRECCIÓN",
+					"area":"STAFF SUBDIRECCIÓN",
 					"titular":{
 					"nombre":"Anabel Rodríguez Hernández",
 					"cargo":"Técnico Medio (Secretaria de la Subdirección de Servicios Educativos)",
 					"actividades":"Control de la correspondencia de la Subdirección de Servicios Educativos  Retirar correspondencia y documentos varios para archivo muerto  Realizar llamadas a las Coordinaciones de Zona y Oficinas Centrales  Recepción de información del Departamento de Control Documental (recibida de Coordinaciones de Zona y Oficinas Centrales)  Llevar el control de activo fijo (revisión de muebles existentes en la Subdirección de Servicios Educativos)  Elaborar Actas de Gobierno Federal y Gobierno Estatal (activo fijo)  Elaborar oficio, tarjetas y recibos  Entregar correspondencia las diferentes Subdirecciones de esta Dirección General  Escanear oficios y documentos varios  Enviar por correo electrónico información a las Coordinaciones de Zona  Bajar del correo electrónico la solicitud de formatearía de nivel inicial de las Coordinaciones de Zona  Requisita el formato mensual para las Coordinaciones de Zona donde solicitan (formatearía de nivel inicial), ejercicios diagnósticos, formativas 1 y 2 e instructivos de ejercicios diagnósticos, formativas 1 y 2 para enviarla al Almacén Estatal vía correo electrónico para su distribución correspondiente  Registrar correspondencia recibida para los departamento de Educación Hispanohablante, Educación Indígena, Formación y Desarrollo Educativo y turnarla a quien corresponda  Engargolados documentos varios de la Subdirección de Servicios Educativos  Elaborar oficios de comisión y comprobaciones.  Elaborar la solicitud mensual de material de oficina para la Subdirección de Servicios Educativos",
 					"contrato":"Base",
-					"antiguedad":"24 años 8 meses",
+					"antiguedad":"Desde 16 de Septiembre 1991",
 					"escolaridad":"Carrera Comercial (Secretaria)",
 					"jefe":"JUANA MARIA MIRANDA CUEVAS",
 						"correo":"arodriguez@inea.gob.mx",
@@ -273,15 +263,15 @@
 				{
 					"area":"DEPARTAMENTO DE SEGUIMIENTO Y VINCULACIÓN",
 					"titular":{
-						"nombre":"MANUEL HERNANDEZ SALVADOR",
-						"cargo":"Jefe de Departamento",
-						"actividades":"1. Concertar con las organizaciones de la sociedad civil con la finalidad de que operen los programas y proyectos, seguimiento a las alianzas con instituciones educativas. 2. Apoyar a la subdirección en la elaboración de los programas anuales y de trabajo con los diferentes aliados. 3. Acordar y organizar eventos de firmas de convenio, entregas de certificados y demás actividades que se establezcan con los aliados del IVEA.",
-						"contrato":"Base",
-						"antiguedad":"24 años 8 meses",
-						"escolaridad":"Ingeniero Agrónomo zootecnista",
-						"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
-							"correo":"hernandezs@inea.gob.mx",
-						"fotografia":"scso/manuel.JPG"
+						"nombre":"EVA RAMIREZ HERNANDEZ",
+							"cargo":"Jefe de Departamento",
+							"actividades":"1. Concertar con las organizaciones de la sociedad civil con la finalidad de que operen los programas y proyectos, seguimiento a las alianzas con instituciones educativas. 2. Apoyar a la subdirección en la elaboración de los programas anuales y de trabajo con los diferentes aliados. 3. Acordar y organizar eventos de firmas de convenio, entregas de certificados y demás actividades que se establezcan con los aliados del IVEA.",
+							"contrato":"Honorarios",
+							"antiguedad":"Desde 16 de Noviembre 2008",
+							"escolaridad":"Licenciatura en Pedagogia",
+								"correo":"eramirez@inea.gob.mx",
+							"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
+							"fotografia":"scso/eva.JPG"
 					},
 					"personal":[
 						{
@@ -289,20 +279,31 @@
 							"cargo":"Jefe de Oficina",
 							"actividades":"Auxiliar en el Programa de Contraloría Social en Plazas Comunitarias encargada de brindar capacitación para la creación de comités, darle seguimiento y subir ésta información al SICS (Sistema Informático de Contraloría Social); realizar informes trimestrales del Programa al Órgano Interno de Control de la SEV así como INEA. Asisto en representación del Director a las Sesiones Ordinarias bimestrales del Subcomité Técnico Estatal de Contraloría Social de Prospera Programa de Inclusión Social del Edo. de Veracruz. En donde se revisan quejas, o denuncias a las instituciones. Auxiliar en el Proyecto de Alfabetización a Personas Sordas ( Inserto en el Subproyecto 495 Inclusión de personas con discapacidad). Apoyo a Raúl Aguilera quien es figura solidaria, líder de Sordos en Veracruz, que nos apoya en la creación de círculos de estudio de personas sordas,  así como a Carlos León quien es intérprete de Lengua de Señas Mexicana, para dar seguimiento a este proyecto. Actualmente estamos haciendo adecuaciones al libro ¨La Palabra¨ en LSM para su próxima re-impresión. Apoyo en eventos de la Subdirección.",
 							"contrato":"Base",
-							"antiguedad":"25 años",
-							"escolaridad":"Licenciatura",
-							"jefe":"MANUEL HERNANDEZ SALVADOR",
+							"antiguedad":"Desde 16 de Agosto de 1990",
+							"escolaridad":"Pasante en Licenciatura en Artes opción Diseño Grafico",
+							"jefe":"EVA RAMIREZ HERNANDEZ",
 								"correo":"cguillen@inea.gob.mx",
 							"fotografia":"scso/cecy.JPG"
+						},
+						{
+						"nombre":"Manuel Hernández Salvador",
+						"cargo":"Jefe de Oficina",
+						"actividades":"1. Apoyar las acciones de concertación con los diferentes aliados del IVEA a fin de implementar acciones para brindar atención educativa a los adultos en situación de rezago. 2. Dar seguimiento a los acuerdos establecidos con los aliados estratégicos del IVEA para informar a las coordinaciones de zona y respaldar la operación de los programas y proyectos que se implementan para abatir el rezago educativo en el estado. 3. Apoyar las acciones de planeación y logística de los eventos de firmas de convenio, entregas de certificados, inauguración de plazas comunitarias y demás eventos que se acuerdan con los aliados del IVEA. 4. Generar los informes de los avances ya sean semanales, mensuales, trimestrales, semestrales; solicitados por el INEA, la SEV, dirección general y demás dependencias o aliados que así lo requieran. 5. Gestionar ante la dirección de concertación y alianzas estratégicas del INEA la emisión del reconocimiento CONEVYT, buen juez y ORG, SC., para los aliados que colaboran con el IVEA en el abatimiento del rezago educativo y organizar los eventos de entrega de los mismos. 6. Apoyar y orientar a las coordinaciones de zona en la operación de los diferentes proyectos y programas que opera el departamento de concertación; hacer las gestiones conforme a las necesidades de la zona para optimizar los resultados de los mismos.",
+						"contrato":"Base",
+						"antiguedad":"desde 16 de Septiembre 1991",
+						"escolaridad":"Ingeniero Agrónomo Zootecnista",
+						"jefe":"EVA RAMIREZ HERNANDEZ",
+							"correo":"hernandezs@inea.gob.mx",
+						"fotografia":"scso/manuel.JPG"
 						},
 						{
 							"nombre":"María Ruth Romero Vargas",
 							"cargo":"Jefe de oficina de conevyt y OSC",
 							"actividades":"Control y seguimiento de las Concertaciones con Instituciones y Organizaciones de Sociedad Civil de los educandos registrados en SASA y los acreditados por medio del PEC para la emisión de Reconocimientos CONEVyT como Empresas o Instituciones comprometidas con la Educación y/o Reconocimiento CONEVyT como Empresas o Instituciones Libres de Rezago Educativo, por parte del área de Alianzas Estratégicas del INEA. Rendir información mensual y trimestral. Apoyo al área en otras actividades",
-							"contrato":"Plantilla",
-							"antiguedad":"13 años",
+							"contrato":"Honorarios",
+							"antiguedad":"Desde 16 de Mayo 2003",
 							"escolaridad":"Maestra de Educación Primaria y Contador Público",
-							"jefe":"MANUEL HERNANDEZ SALVADOR",
+							"jefe":"EVA RAMIREZ HERNANDEZ",
 								"correo":"mrromero@inea.gob.mx",
 							"fotografia":"scso/ruth.JPG"
 						},
@@ -311,30 +312,21 @@
 							"cargo":"Auxiliar Administrativo",
 							"actividades":"Revisión, corrección e impresión de instrumentos jurídicos con Diversas Instituciones, Dependencias, Empresas y Organizaciones Públicas y Privadas con las que se suscriben, Convenios, Acuerdos y/o Cartas Compromisos Institucionales. Se trabaja en coordinación con el Área Jurídica, ya que los documentos son enviados a dicha Área para su Revisión, Visto Bueno, previo a su impresión, y posteriormente su validación por parte de la titular del Área Jurídica. - Seguimiento a los Convenios de Colaboración Educativa suscritos con los Ayuntamientos. - Apoyo logístico en los eventos en los cuales se suscribe algún Convenio o Acuerdo institucional. - Apoyo ocasional en tareas del Departamento de Plazas Comunitarias.",
 							"contrato":"Honorarios",
-							"antiguedad":"15 años",
+							"antiguedad":"Desde 16 de Junio 2005",
 							"escolaridad":"Pasantía de Lic. en Sociología",
 							"jefe":"EVA RAMÍREZ HERNÁNDEZ",
 								"correo":"ealonso@inea.gob.mx",
 							"fotografia":"scso/ernesto.JPG"
 						},
-						{
-							"nombre":"Eva Ramírez Hernández",
-							"cargo":"Jefe de la oficina de concertación y vinculación",
-							"actividades":"1. Apoyar las acciones de concertación con los diferentes aliados del IVEA a fin de implementar acciones para brindar atención educativa a los adultos en situación de rezago. 2. Dar seguimiento a los acuerdos establecidos con los aliados estratégicos del IVEA para informar a las coordinaciones de zona y respaldar la operación de los programas y proyectos que se implementan para abatir el rezago educativo en el estado. 3. Apoyar las acciones de planeación y logística de los eventos de firmas de convenio, entregas de certificados, inauguración de plazas comunitarias y demás eventos que se acuerdan con los aliados del IVEA. 4. Generar los informes de los avances ya sean semanales, mensuales, trimestrales, semestrales; solicitados por el INEA, la SEV, dirección general y demás dependencias o aliados que así lo requieran. 5. Gestionar ante la dirección de concertación y alianzas estratégicas del INEA la emisión del reconocimiento CONEVYT, buen juez y ORG, SC., para los aliados que colaboran con el IVEA en el abatimiento del rezago educativo y organizar los eventos de entrega de los mismos. 6. Apoyar y orientar a las coordinaciones de zona en la operación de los diferentes proyectos y programas que opera el departamento de concertación; hacer las gestiones conforme a las necesidades de la zona para optimizar los resultados de los mismos.",
-							"contrato":"Base",
-							"antiguedad":"9 años",
-							"escolaridad":"Licenciatura en Pedagogia",
-								"correo":"eramirez@inea.gob.mx",
-							"jefe":"MANUEL HERNANDEZ SALVADOR",
-							"fotografia":"scso/eva.JPG"
-						},
+
 						{
 							"nombre":"Blanca Lizeth Hernández Olivo",
 							"cargo":"Auxiliar Administrativo",
 							"actividades":"Llevar seguimiento a convenios(Institutos Superiores Tecnológicos) con las 24 coordinaciones de zona. Enlace con SEDESOL Federal para asistir a las ferias interinstituconales  de los programas 65 y Más, Jornaleros Agrícolas Migrantes, Seguro para jefas de Familia, Estancias Infantiles y Proyectos Productivos, para hacer difusión e informas sobre los servicios que presta el IVEA. Apoyo logístico en los diferentes eventos que se realizan en el IVEA: como Firmas de Convenios, Instalación de mesas Interinstitucionales y seguimiento a cada uno de ellos. Asistir a reuniones en representación del área y apoyo en actividades inherentes a la misma.",							"contrato":"Base",
-							"antiguedad":"5 años 6 meses",
-							"escolaridad":"Licenciatura",
-							"jefe":"MANUEL HERNANDEZ SALVADOR",
+							"contrato":"Honorarios",
+							"antiguedad":"Desde 16 de Noviembre 2010",
+							"escolaridad":"Pasantante Licenciatura en Contaduria",
+							"jefe":"EVA RAMIREZ HERNANDEZ",
 								"correo":"blhernandez@inea.gob.mx",
 							"fotografia":"scso/blanca.JPG"
 						}
@@ -347,7 +339,7 @@
 						"cargo":"Jefe de Departamento",
 						"actividades":"Planear, coordinar, organizar, instrumentar, seguir y evaluar el Proyecto Plazas Comunitarias en la entidad",
 						"contrato":"Honorarios",
-						"antiguedad":"MAYO 2016",
+						"antiguedad":"Desde Mayo 2016",
 						"escolaridad":"Ing. Industrial",
 						"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
 							"correo":"",
@@ -359,8 +351,8 @@
 							"cargo":"Auxiliar Administrativo",
 							"actividades":"Dar soporte tecnico a las computadoras de las Plazas Comunitarias, Instalación y Reactivación del equipo de computo en las Plazas Comunitarias, control de las figuras Apoyo Técnico Regional a Plazas Comunitarias, control del inventario del equipo de computo y seguimiento del equipo del proceso de sustitución. ",
 							"contrato":"Honorarios",
-							"antiguedad":"1 año 8 meses",
-							"escolaridad":"Técnico Bachiller",
+							"antiguedad":"Desde 16 de Septiembre 2014",
+							"escolaridad":"Técnico Bachiller en Informática",
 							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"rlagunes@inea.gob.mx",
 							"fotografia":"scso/roxana.JPG"
@@ -370,7 +362,7 @@
 							"cargo":"Técnico Medio (Auxiliar de Plazas Comunitarias)",
 							"actividades":"Seguimiento a resultados a partir de datos de SASA, tanto del proyecto de Plazas Comunitarias como de lo que tiene a cargo la Subdirección.",
 							"contrato":"Base",
-							"antiguedad":"4 años 6 meses",
+							"antiguedad":"Desde 16 de Noviembre 2011",
 							"escolaridad":"Licenciatura en Educación Media con Especialidad en Matemáticas",
 							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"jhernandez@inea.gob.mx",
@@ -381,7 +373,7 @@
 							"cargo":"Coordinador de Unidad de Servicios Especializados (CUSE)",
 							"actividades":"Actualización de equipos de cómputo en base de datos, por medio de recibos, y envíos de valija, Visitas de supervisión a Plazas Comunitarias cuando se necesita, Elaboración de valija con su respectivo cuadro, realización de actas de entrega de equipo en plazas comunitarias,  recopilación de formatos de vinculaciones de plazas Comunitarias. , archivos varios y elaboración de recolipladores.Encargado de valija y oficios del Departamento,actualización de recopiladores. Asistencia a reuniones de difusión en SEDESOL u otro tipo de Instituciones, participación a eventos del IVEA, entrega de oficios, elaboración de oficios,circulares,  tarjetas y otros documentos. Entrega de Formatos de vinculaciones a Coordinaciones de Zona, actualización de formatos como directoriosy varios más. Apoyo a Supervisión  de aplicación de exámenes por medio de la UCIAC a  las Coordinaciones de Zona los fines de semana cuando se requiera. Apoyo a supervisión del programa del PEC.  y varias más.",
 							"contrato":"Plantilla",
-							"antiguedad":"33 años",
+							"antiguedad":"Desde 1 de Noviembre 1981",
 							"escolaridad":"Licenciatura Pedagogia",
 							"jefe":"MIGUEL ANGEL CAICERO GARCIA",
 								"correo":"jrrodriguez@inea.gob.mx",
@@ -390,13 +382,13 @@
 					]
 				},
 				{
-					"area":"SUBDIRECCIÓN",
+					"area":"STAFF SUBDIRECCIÓN",
 					"titular":{
 					"nombre":"María Dolores Aguilar Utrera",
 					"cargo":"Secretaria",
 					"actividades":"Recepción de información, atención telefónica, elaboración de oficios, tarjetas, elaboración y trámites de viáticos, comprobaciones y apoyo a las actividades logísticas en los eventos inherentes a la Subdirección.",
 					"contrato":"Base",
-					"antiguedad":"32 años 7 meses",
+					"antiguedad":"Desde 16 de Septiembre 1983",
 					"escolaridad":"Bachillerato Tecnico en Contabilidad",
 					"jefe":"NEMESIO RICARDO DOMÍNGUEZ RODRÍGUEZ",
 						"correo":"mdaguilar@inea.gob.mx",
@@ -413,7 +405,7 @@
 				"cargo":"SUBDIRECTOR",
 				"actividades":"Desarrollar, establecer, supervisar y controlar las acciones y lineamientos para la planeación, programación y presupuestación de los servicios educativos del IVEA a corto, mediano y largo plazo conforme a las normas establecidas a nivel nacional y estatal.",
 				"contrato":"Plantilla",
-				"antiguedad":"5 años",
+				"antiguedad":"Desde 6 de Enero 2011",
 				"escolaridad":"Maestría en Economía y Negocios e Ingeniería Mecánica Eléctrica",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
 					"correo":"jolvera@inea.gob.mx",
@@ -430,7 +422,7 @@
   					"cargo":"Jefe de oficina",
   					"actividades":"Actividades secretariales de la oficina del subdirector (atención del teléfono, recepción de correspondencia, turnar la correspondencia a las áreas de la subdirección, realizar oficios, tarjetas o circulares, control de archivo, etc.) Control de los inventarios de activo fijo de la subdirección, seguimiento, logística y desarrollo de las actividades de la junta de gobierno; y las demás que mi jefe inmediato me indique.",
   					"contrato":"Base",
-  					"antiguedad":"25 años",
+  					"antiguedad":"Desde 16 de Enero de 1991",
   					"escolaridad":"Licenciatura en Contabilidad",
   					"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
 							"correo":"colivares@inea.gob.mx",
@@ -441,7 +433,7 @@
 						"cargo":"Auxiliar Administrativo ",
 						"actividades":"Auxiliar administrativo de la subdirección, encargado de la entregas de carpetas de la junta de gobierno a diferentes dependencias de gobierno, auxiliar de apoyo logístico dentro de la junta de gobierno, conductor de la subdirección, control de la papelería de la subdirección, encargado de llevar documentación a diferentes dependencias y diferentes actividades de más que mi jefe inmediato me indique",
 						"contrato":"Honorarios",
-						"antiguedad":"2 años",
+						"antiguedad":"Desde 1 de Mayo 2014",
 						"escolaridad":"Preparatoria",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
 							"correo":"grosorio@inea.gob.mx",
@@ -457,7 +449,7 @@
 						"cargo":"Jefe de Departamento",
 						"actividades":"Presupuestar las Metas y Acciones establecidas para el Instituto, Llevar el seguimiento del ejercicio del Presupuesto, Llevar el seguimiento a las Figuras de Gratificación fija autorizadas, Analizar y liberar en su caso las Gratificación de Figuras Solidarias y Asesores de manera mensual, Realizar y enviar los Reportes Programáticos Presupuestales a INEA, Llevar seguimiento al Convenio de Atención a la Demanda con cargo al Ramo 11 y las demás que establezca el Subdirector o el Director General del Instituto",
 						"contrato":"Plantilla",
-						"antiguedad":"11 años 4 meses",
+						"antiguedad":"Desde 1 de Julio 2014",
 						"escolaridad":"Licenciatura en Contaduria",
 						"jefe":"JUAN CARLOS OLVERA HERNANDEZ",
 							"correo":"ijuarez@ivea.edu.mx",
@@ -469,7 +461,7 @@
 							"cargo":"Secretaria",
 							"actividades":"Recepción, turno y archivo de correspondencia del departamento. Registro y/o elaboración de tarjetas, oficios y/o circulares del depto.",
 							"contrato":"Base",
-							"antiguedad":"30 años",
+							"antiguedad":"Desde 16 de Abril 2010",
 							"escolaridad":"Licenciatura en contaduría",
 							"jefe":"ISAAC JUAREZ NUÑEZ",
 								"correo":"rjacinto@inea.gob.mx",
@@ -1536,6 +1528,29 @@
 								"correo":"mrorrico@inea.gob.mx",
 							"fotografia":"Materiales/Roxel.JPG"
 						},
+
+						{
+							"nombre":"Reyna Alejandra Ortega Hernandez",
+							"cargo":"Especialista en Proyectos Técnicos",
+							"actividades":"Actualización del Activo Fijo",
+							"contrato":"Base",
+							"antiguedad":"4 años",
+							"escolaridad":"Licenciatura",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+							"correo":"raortega@inea.gob.mx",
+							"fotografia":"Tecnologias/reyna.JPG"
+						},
+						{
+							"nombre":"Jeronimo Juarez Aburto",
+							"cargo":"Jefe de oficina",
+							"actividades":"Actualización del Activo Fijo",
+							"contrato":"Base",
+							"antiguedad":"24 años 3 meses",
+							"escolaridad":"Licenciatura",
+							"jefe":"JOEL HERNANDEZ VAZQUEZ",
+							"correo":"jjuarez@inea.gob.mx",
+							"fotografia":"Tecnologias/jero.JPG"
+						},
 						{
 						  "nombre":"Rebeca Figueroa Carlín",
 						  "cargo":"Secretaria C COMISIONADA A SINDICATO",
@@ -1689,29 +1704,6 @@
 								"correo":"cencarnacion@inea.gob.mx",
 							"fotografia":"Tecnologias/cesar.JPG"
 						},
-
-						{
-							"nombre":"Reyna Alejandra Ortega Hernandez",
-							"cargo":"Especialista en Proyectos Técnicos",
-							"actividades":"Mantenimiento de Equipos de computo y Soporte Técnico, Desarrollo de Sistemas",
-							"contrato":"Base",
-							"antiguedad":"4 años",
-							"escolaridad":"Licenciatura",
-							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"raortega@inea.gob.mx",
-							"fotografia":"Tecnologias/reyna.JPG"
-						},
-						{
-							"nombre":"Jeronimo Juarez Aburto",
-							"cargo":"Jefe de oficina",
-							"actividades":"Mantenimiento de Equipos de computo y Soporte Técnico",
-							"contrato":"Base",
-							"antiguedad":"24 años 3 meses",
-							"escolaridad":"Licenciatura",
-							"jefe":"HERNAN TENORIO GOMEZ",
-								"correo":"jjuarez@inea.gob.mx",
-							"fotografia":"Tecnologias/jero.JPG"
-						},
 						{
 							"nombre":"Marilu Rivas Garcia",
 							"cargo":"Auxiliar Administrativo",
@@ -1726,7 +1718,7 @@
 					]
 				},
 				{
-					"area":"SUBDIRECCIÓN",
+					"area":"STAFF SUBDIRECCIÓN",
 					"titular":{
 					"nombre":"Karem Arroyo Ocejo",
 					"cargo":"Secretaria",
@@ -1757,7 +1749,7 @@
 			},
 			"departamentos":[
 	{
-		"area":"PERSONAL SUBDIRECCIÓN",
+		"area":"STAFF SUBDIRECCIÓN",
 
 	"personal":[
 				{
@@ -1922,15 +1914,15 @@
 			"area":"DEPARTAMENTO DE DISEÑO Y DIFUSIÓN EDUCATIVA",
 			"id":"DDDE",
 			"titular":{
-				"nombre":"ALMA DELIA ACOSTA CAMPOS",
+				"nombre":"ROSARIO MAGALI CRUZ MARTINEZ",
 				"cargo":"JEFA DE DEPARTAMENTO",
 				"actividades":"Diseñar y elaborar mecanismos para la difusión de los servicios que presta el instituto que permitan hacer del conocimiento de los veracruzanos los programas institucionales que se manejan que combaten el rezago educativo.",
 				"contrato":"Honorarios",
-				"antiguedad":"2 meses",
-				"escolaridad":"Licenciatura en Ciencias y Técnicas de la Comunicación",
+				"antiguedad":"",
+				"escolaridad":"Licenciatura en Derecho",
 				"jefe":"LOTH MELCHISEDEC SEGURA JUAREZ",
-					"correo":"adacosta@inea.gob.mx",
-				"fotografia":"Difusion/Alma.JPG"
+				"correo":"rmcruz@inea.gob.mx",
+				"fotografia":"Difusion/Rosario.JPG"
 			},
 			"personal":[
 				{
@@ -1940,20 +1932,9 @@
 					"contrato":"Base",
 					"antiguedad":"28 años 8 meses",
 					"escolaridad":"Preparatoria",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
+					"jefe":"ROSARIO MAGALI CRUZ MARTINEZ",
 						"correo":"",
 					"fotografia":"Difusion/Fortino.JPG"
-				},
-				{
-					"nombre":"Rosario Magali  Cruz Martínez",
-					"cargo":"Auxiliar Administrativo",
-					"actividades":"Atención al usuario, coordinación en comunicación, cobertura de eventos, gestión de contenidos e información",
-					"contrato":"Honorarios",
-					"antiguedad":"2 meses",
-					"escolaridad":"Licenciatura en Derecho",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"rmcruz@inea.gob.mx",
-					"fotografia":"Difusion/Rosario.JPG"
 				},
 				{
 					"nombre":"Carlos Hugo Santander Luna",
@@ -1962,21 +1943,11 @@
 					"contrato":"Base",
 					"antiguedad":"4 años 6 meses",
 					"escolaridad":"Bachillerato",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
+					"jefe":"ROSARIO MAGALI CRUZ MARTINEZ",
 						"correo":"chsantander@inea.gob.mx",
 					"fotografia":"Difusion/Carlos.JPG"
 				},
-				{
-					"nombre":"Jorge Antonio Gómez Pérez",
-					"cargo":"Auxiliar Administrativo",
-					"actividades":"Edición, Producción, Material de video y fotografia para Redes sociales.",
-					"contrato":"Honorarios",
-					"antiguedad":"2 meses",
-					"escolaridad":"Licenciatura",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
-						"correo":"jagomez@inea.gob.mx",
-					"fotografia":"Difusion/Jorge.JPG"
-				},
+
 				{
 					"nombre":"Doralina Quesada Sedas",
 					"cargo":"Técnico Superior",
@@ -1984,7 +1955,7 @@
 					"contrato":"Base",
 					"antiguedad":"23 años",
 					"escolaridad":"Licenciatura",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
+					"jefe":"ROSARIO MAGALI CRUZ MARTINEZ",
 						"correo":"dquesada@inea.gob.mx",
 					"fotografia":"Difusion/Doris.JPG"
 				},
@@ -1995,7 +1966,7 @@
 					"contrato":"Honorarios",
 					"antiguedad":"2 meses",
 					"escolaridad":"Licenciatura en Ciencias de la Educación",
-					"jefe":"ALMA DELIA ACOSTA CAMPOS",
+					"jefe":"ROSARIO MAGALI CRUZ MARTINEZ",
 						"correo":"iiramirez@inea.gob.mx",
 					"fotografia":"Difusion/Iris.JPG"
 				}
@@ -2006,7 +1977,7 @@
 			"id":"UG",
 			"titular":{
 				"nombre":"Karina Lizeth Cedeño Muñoz",
-				"cargo":"Auxiliar Administrativo",
+				"cargo":"Encargada de la Unidad",
 				"actividades":"Diseñar y coordinar las actividades a realizar en las coordinaciones de zona y subdirecciones de la Dirección General del Instituto para implementar la perspectiva de Género, recabar las evidencias de dichas actividades, generar reportes e informes para las diferentes dependencias que lo requieren, SEV, IVM, Contraloría, entre las diferentes actividades de oficina de rutina, elaborar oficios, llevar agenda, atender llamadas, actividades de archivo, asistir a conferencias, platicas y reuniones a las que sea convocada la Unidad de Género.",
 				"contrato":"Honorarios",
 				"antiguedad":"1 año 9 meses",
