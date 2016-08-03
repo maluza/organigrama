@@ -954,17 +954,6 @@
 							"jefe":"GRISELDA TOTOMOL CUEVAS",
 								"correo":"jdcuevas@inea.gob.mx",
 							"fotografia":"Certificacion/Jenny.JPG"
-						},
-						{
-						  "nombre":"María Del Rosario Sánchez López",
-						  "cargo":"Secretaria C COMISIONADA A SINDICATO",
-						  "actividades":"Comisionada a Sindicato",
-						  "contrato":"Base",
-						  "antiguedad":"Desde 1 de Marzo de 1986",
-						  "escolaridad":"Preparatoria",
-						  "jefe":"GRISELDA TOTOMOL CUEVAS",
-								"correo":"mrsanchez@inea.gob.mx",
-						  "fotografia":"Sindicato/Charito.JPG"
 						}
 					]
 				},
@@ -1188,17 +1177,7 @@
 							"correo":"",
 						"fotografia":"Humanos/giovanna.JPG"
 					},
-					{
-						"nombre":"Uriel Orozco Beltrán",
-						"cargo":"Especialista en proyectos técnicos",
-						"actividades":"Auxiliar de nóminas, carga de incidencias de créditos hipotecarios, elaboración de información para la ley general de contabilidad gubernamental art. 73",
-						"contrato":"Base",
-						"antiguedad":"Desde 16 de Mayo 1990",
-						"escolaridad":"Pasante Licenciatura en Contador Público y Auditor",
-						"jefe":"MIGUEL ANGEL GRANDE GOMEZ",
-							"correo":"uorozco@inea.gob.mx",
-						"fotografia":"Humanos/uriel.JPG"
-					},
+
 					{
 						"nombre":"Sara Gonzalez Velez",
 						"cargo":"Analista Administrativo",
@@ -1401,25 +1380,14 @@
 							"jefe":"GUSTAVO CASTELLANOS ROMAN",
 								"correo":"fernandezs@inea.gob.mx",
 							"fotografia":"Financieros/juanita.JPG"
-						},
-						{
-						  "nombre":"Beatriz Flores Nuñez",
-						  "cargo":"Jefe de Oficina COMISIONADA A SINDICATO",
-						  "actividades":"De Analista Administrativa",
-						  "contrato":"Base",
-						  "antiguedad":"Desde 16 de Febrero 1983",
-						  "escolaridad":"Pasante Licenciatura en Economía",
-						  "jefe":"GUSTAVO CASTELLANOS ROMAN",
-								"correo":"bflores@inea.gob.mx",
-						  "fotografia":"Sindicato/Betty.JPG"
 						}
 					]
 				},
 				{
 					"area":"DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENERALES",
 					"titular":{
-						"nombre":"Joel Hernandez Vazquez",
-						"cargo":"Jefe de Oficina de Activo Fijo",
+						"nombre":"JOEL HERNANDEZ VAZQUEZ",
+						"cargo":"Encargado del Departamento",
 						"actividades":"Coordinar y desarrollar actividades inherentes a las oficinas de Parque Vehicular, Activo Fijo, Adquisiciones y Servicios Generales",
 						"contrato":"Honorarios",
 						"antiguedad":"17 años",
@@ -1550,18 +1518,8 @@
 							"jefe":"JOEL HERNANDEZ VAZQUEZ",
 							"correo":"jjuarez@inea.gob.mx",
 							"fotografia":"Tecnologias/jero.JPG"
-						},
-						{
-						  "nombre":"Rebeca Figueroa Carlín",
-						  "cargo":"Secretaria C COMISIONADA A SINDICATO",
-						  "actividades":"Contestar teléfono,entrega de información a diferentes áreas y dependencias,archivar y las inherentes al departammento.",
-						  "contrato":"Base",
-						  "antiguedad":"Desde 1 de Noviembre 1981",
-						  "escolaridad":"Carrera Inconclusa",
-						  "jefe":"JOEL HERNANDEZ VAZQUEZ",
-								"correo":"figueroac@inea.gob.mx",
-						  "fotografia":"Sindicato/Rebeca.JPG"
 						}
+
 					]
 				},
 				{
@@ -1794,7 +1752,7 @@
 ]
 		},
 		{
-			"area":"UNIDADES ",
+			"area":"STAFF UNIDADES ",
 			"id":"UNI",
 			"titular":{
 			},
@@ -2003,6 +1961,70 @@
 			}
 		}
 		]
-		}
+	},
+	{
+		"area":"SINDICATO",
+		"id":"SDC",
+		"titular":{
+			"nombre":"BEATRIZ FLORES NUÑEZ",
+			"cargo":"Jefe de Oficina COMISIONADA A SINDICATO",
+			"actividades":"De Analista Administrativa",
+			"contrato":"Base",
+			"antiguedad":"Desde 16 de Febrero 1983",
+			"escolaridad":"Pasante Licenciatura en Economía",
+			"jefe":"",
+			"correo":"bflores@inea.gob.mx",
+			"fotografia":"Sindicato/Betty.JPG"
+		},
+
+"personal":[
+			{
+				"nombre":"Uriel Orozco Beltrán",
+				"cargo":"Especialista en proyectos técnicos",
+				"actividades":"Auxiliar de nóminas, carga de incidencias de créditos hipotecarios, elaboración de información para la ley general de contabilidad gubernamental art. 73",
+				"contrato":"Base",
+				"antiguedad":"Desde 16 de Mayo 1990",
+				"escolaridad":"Pasante Licenciatura en Contador Público y Auditor",
+				"jefe":"",
+					"correo":"uorozco@inea.gob.mx",
+				"fotografia":"Humanos/uriel.JPG"
+		},
+		{
+			"nombre":"Rebeca Figueroa Carlín",
+			"cargo":"Secretaria C COMISIONADA A SINDICATO",
+			"actividades":"Contestar teléfono,entrega de información a diferentes áreas y dependencias,archivar y las inherentes al departammento.",
+			"contrato":"Base",
+			"antiguedad":"Desde 1 de Noviembre 1981",
+			"escolaridad":"Carrera Inconclusa",
+			"jefe":"",
+				"correo":"figueroac@inea.gob.mx",
+			"fotografia":"Sindicato/Rebeca.JPG"
+	},
+	{
+		"nombre":"María Del Rosario Sánchez López",
+		"cargo":"Secretaria C COMISIONADA A SINDICATO",
+		"actividades":"Comisionada a Sindicato",
+		"contrato":"Base",
+		"antiguedad":"Desde 1 de Marzo de 1986",
+		"escolaridad":"Preparatoria",
+		"jefe":"",
+			"correo":"mrsanchez@inea.gob.mx",
+		"fotografia":"Sindicato/Charito.JPG"
+},
+{
+	"nombre":"Luz María Beltran Salas",
+	"cargo":"Tecnico Docente COMISIONADA A SINDICATO",
+	"actividades":"Promoción de los servicios del Instituto e incorporación de adultos, entre otras",
+	"contrato":"Base",
+	"antiguedad":"30 años",
+	"escolaridad":"Licenciatura en Antropologia Social",
+	"jefe":"",
+		"correo":"lmbeltran@inea.gob.mx",
+	"fotografia":"Sindicato/Luz.JPG"
+}
+		]
+
+
+	}
 	]
 }
